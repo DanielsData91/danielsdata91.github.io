@@ -2,13 +2,13 @@
 
 ---
 
-### Category Name 1 
+### Data Analyst
 
-[Project 1 Title](/sample_page)
+[Preparing for Influenza Season](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Rockbuster Stealth LLC](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
