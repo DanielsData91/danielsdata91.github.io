@@ -4,7 +4,7 @@
 
 ### Data Analyst
 
-[Preparing for Influenza Season](/sample_page)
+[Preparing for Influenza Season](https://public.tableau.com/shared/YQ6WCNN4P?:display_count=n&:origin=viz_share_link/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
