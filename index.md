@@ -8,7 +8,7 @@
 <img src="images/Influenza Season_Project.png"/>
 
 ---
-[Rockbuster Stealth LLC](pdf/Rock.pdf)
+[Rockbuster Stealth LLC](pdf/Rockbuster.pdf)
 <img src="images/Rockbuster_Project.png"/>
 
 ---
