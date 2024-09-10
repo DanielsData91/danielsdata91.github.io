@@ -8,7 +8,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Rockbuster Stealth LLC](/pdf/sample_presentation.pdf)
+[Rockbuster Stealth LLC](pdf/Rock.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
