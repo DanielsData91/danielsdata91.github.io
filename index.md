@@ -9,7 +9,7 @@
 
 ---
 [Rockbuster Stealth LLC](pdf/Rock.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Rockbuster_Project.png"/>
 
 ---
 [Project 3 Title](http://example.com/)
