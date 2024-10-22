@@ -1,8 +1,6 @@
-## Portfolio
+# Data Analyst - Portfolio
 
 ---
-
-### Data Analyst
 
 ## Project 1: Instacart Basked Markt Analysis with Python
 
