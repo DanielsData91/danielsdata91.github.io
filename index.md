@@ -4,11 +4,16 @@
 
 ### Data Analyst
 
+## Project 1: Instacart Basked Markt Analysis with Python
+
+[Instacart Basket Analysis](https://github.com/DanielsData91/Instacart-Basket-Analysis)
+<img src="https://brittainladd.com/wp-content/uploads/2023/09/Instacart-Logo-scaled.jpg"
+
 [Preparing for Influenza Season](https://public.tableau.com/shared/YQ6WCNN4P?:display_count=n&:origin=viz_share_link/)
 <img src="images/Influenza Season_Project.png"/>
 
 ---
-[Rockbuster Stealth LLC](pdf/Rockbuster.pdf)
+[Rockbuster Stealth LLC]([pdf/Rockbuster.pdf](https://github.com/DanielsData91/Rockbuster-Stealth-Project))
 <img src="images/Rockbuster_Project.png"/>
 
 ---
@@ -17,13 +22,7 @@
 
 ---
 
-### Category Name 2
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
 ---
 
