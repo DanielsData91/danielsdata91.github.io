@@ -7,7 +7,7 @@
 ## Project 1: Instacart Basked Markt Analysis with Python
 
 [Instacart Basket Analysis](https://github.com/DanielsData91/Instacart-Basket-Analysis)
-!Instacart](https://brittainladd.com/wp-content/uploads/2023/09/Instacart-Logo-scaled.jpg)
+![Instacart](https://brittainladd.com/wp-content/uploads/2023/09/Instacart-Logo-scaled.jpg)
 
 [Preparing for Influenza Season](https://public.tableau.com/shared/YQ6WCNN4P?:display_count=n&:origin=viz_share_link/)
 <img src="images/Influenza Season_Project.png"/>
