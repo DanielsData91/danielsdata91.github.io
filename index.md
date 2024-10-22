@@ -16,7 +16,7 @@ This project focuses on uncovering hidden sales patterns using Python through ex
 
 This project involves uploading data into a relational database to identify potential target markets for an online video rental service. The analysis focuses on geographical sales rates and the identification of high-value customers using descriptive analysis methods in PostgreSQL.
 
-[Rockbuster Stealth LLC]([pdf/Rockbuster.pdf](https://github.com/DanielsData91/Rockbuster-Stealth-Project))
+[Rockbuster Stealth LLC](https://github.com/DanielsData91/Rockbuster-Stealth-Project)
 
 
 <img src="images/Rockbuster_Project.png"/>
