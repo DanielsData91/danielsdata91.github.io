@@ -3,7 +3,7 @@ logo: "images/Daniel Mueller Pic.png" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <a href="mailto:daniel.mueller1991@outlook.com">Write me an E-Mail</a>
   <br><br>
-  <a href="www.linkedin.com/in/daniel-müller-profile">View My LinkedIn Profile</a>
+  <a href="http://www.linkedin.com/in/daniel-m%C3%BCller-profile">View My LinkedIn Profile</a>
   <br><br>
   <a href="https://public.tableau.com/app/profile/daniel.m.ller6696/vizzes">View My Tableau Projects</a>
 remote_theme: pages-themes/minimal@v0.2.0
