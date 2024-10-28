@@ -1,4 +1,4 @@
-# Passionate Data Analyst with a Background in Client-Centered Solutions `#004ea5`
+# Passionate Data Analyst with a Background in Client-Centered Solutions
 
 
 # Data Analyst - Portfolio
