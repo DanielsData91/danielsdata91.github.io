@@ -1,7 +1,4 @@
-**Passionate Data Analyst with a Background in Client-Centered Solutions**
-
-
-
+# Passionate Data Analyst with a Background in Client-Centered Solutions
 
 
 # Data Analyst - Portfolio
