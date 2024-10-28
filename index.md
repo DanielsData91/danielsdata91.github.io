@@ -15,7 +15,7 @@ I’m actively seeking a Junior Data Analyst position where I can contribute to 
 
 ---
 
-The Script Section is accessible by [klicking here](https://github.com/DanielsData91/Instacart-Basket-Analysis)
+The Script Section is accessible by [clicking here](https://github.com/DanielsData91/Instacart-Basket-Analysis)
 
 
 ![Instacart](https://brittainladd.com/wp-content/uploads/2023/09/Instacart-Logo-scaled.jpg)
