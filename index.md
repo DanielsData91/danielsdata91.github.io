@@ -1,4 +1,4 @@
-<img src="images/images/Data Analytics2.png"/>
+<img src="images/Data Analytics2.png"/>
 
 
 
