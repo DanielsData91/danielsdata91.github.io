@@ -14,8 +14,6 @@ I’m actively seeking a Junior Data Analyst position where I can contribute to 
 
 ---
 
-## <h2 class="about-heading">Project 1: Instacart Basked Markt Analysis with Python</h2>
-
 The Script Section is accessible by [klicking here](https://github.com/DanielsData91/Instacart-Basket-Analysis)
 
 
