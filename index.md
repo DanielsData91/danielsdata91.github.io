@@ -2,9 +2,6 @@
 
 <h2 class="about-heading">Passionate Data Analyst with a Background in Client-Centered Solutions</h2>
 
-# Passionate Data Analyst with a Background in Client-Centered Solutions
-
-
 # Data Analyst - Portfolio
 
 ---
