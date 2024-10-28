@@ -1,3 +1,9 @@
+**Passionate Data Analyst with a Background in Client-Centered Solutions**
+
+
+
+
+
 # Data Analyst - Portfolio
 
 ---
@@ -29,6 +35,11 @@ This project aims to help a medical staffing agency plan for increased demand du
 
 
 <img src="images/Influenza Season_Project.png"/>
+
+
+## Resume
+
+Following this link to quickly download my resume from [Google Drive](https://drive.google.com/file/d/1DXsuk8ZAIg2KwLMFD6r7BlGSjhCjuGWO/view?usp=drive_link)
 
 
 
