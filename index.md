@@ -5,7 +5,6 @@
 <link rel="stylesheet" href="styles.css">
 
 # About me in 10 words!
-
 <h2 class="about-heading">Passionate Data Analyst with a Background in Client-Centered Solutions</h2>
 
 I’m a data analyst with a diverse background, open to relocation. Throughout my career, I’ve developed a strong ability to analyze client needs, create tailored solutions, and deliver insights that drive meaningful change. Now, I’m applying these skills to data analysis, specializing in transforming raw data into actionable insights with tools like Excel, Tableau, SQL, and Python.
