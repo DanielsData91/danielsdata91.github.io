@@ -1,3 +1,7 @@
+<img src="images/images/Data Analytics2.png"/>
+
+
+
 <link rel="stylesheet" href="styles.css">
 
 # About me in 10 words!
