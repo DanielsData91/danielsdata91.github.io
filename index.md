@@ -1,4 +1,5 @@
 <link rel="stylesheet" href="styles.css">
+
 <img src="images/Data Analytics2.png"/>
 
 # About me in 10 words!
