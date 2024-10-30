@@ -18,7 +18,7 @@ I’m actively seeking a Junior Data Analyst position where I can contribute to 
 
 ### 1. Introduction
 
-![Introduction](https://github.com/DanielsData91/danielsdata91.github.io/blob/master/images/Screenshot%202024-10-30%20at%2016.11.14.png)
+<img src="images/Screenshot 2024-10-30 at 16.11.14.png"/>
 
 ### 2. Step 1: Customer Ordering Habits
 
