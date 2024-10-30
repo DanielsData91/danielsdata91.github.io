@@ -14,8 +14,35 @@ I’m actively seeking a Junior Data Analyst position where I can contribute to 
 **Scroll down to gain insights into my recent projects**
 
 ---
+## Project Case Study 1: Instacart Basket Analysis
 
-The Script Section is accessible by [clicking here](https://github.com/DanielsData91/Instacart-Basket-Analysis)
+### 1. Introduction
+
+![Introduction](https://github.com/DanielsData91/danielsdata91.github.io/blob/master/images/Screenshot%202024-10-30%20at%2016.11.14.png)
+
+### 2. Step 1: Customer Ordering Habits
+
+![Ordering Habits](https://github.com/DanielsData91/danielsdata91.github.io/blob/master/images/Screenshot%202024-10-30%20at%2016.11.22.png)
+
+### 3. Step 2: Customer Profiling
+
+![Customer Profiling](https://github.com/DanielsData91/danielsdata91.github.io/blob/master/images/Screenshot%202024-10-30%20at%2016.11.29.png)
+
+### 4. Challenges
+
+![Challenges](https://github.com/DanielsData91/danielsdata91.github.io/blob/master/images/Screenshot%202024-10-30%20at%2016.11.36.png)
+
+### 5. Conclusion and Recommendations
+
+![Conclusion and Recommendations](https://github.com/DanielsData91/danielsdata91.github.io/blob/master/images/Screenshot%202024-10-30%20at%2016.11.43.png)
+
+### Access to additional content
+
+Access the Final Report by [clicking here](https://docs.google.com/spreadsheets/d/14rczGgmBJOYZWz8Xh7ZP6FYDQdYgK3tb/edit?usp=drive_link&ouid=102970833740850606782&rtpof=true&sd=true) from my Google Drive.
+
+Access the Python Script Section by [clicking here](https://github.com/DanielsData91/Instacart-Basket-Analysis) from my GitHub Profile.
+
+Access the Project Case Study Files by [clicking here](https://drive.google.com/file/d/1EoxlccECVwob6XTRJlb8JcdDoxHbz4GC/view?usp=drive_link) from my Google Drive.
 
 
 ![Instacart](https://brittainladd.com/wp-content/uploads/2023/09/Instacart-Logo-scaled.jpg)
