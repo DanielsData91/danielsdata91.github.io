@@ -22,19 +22,19 @@ I’m actively seeking a Junior Data Analyst position where I can contribute to 
 
 ### 2. Step 1: Customer Ordering Habits
 
-![Ordering Habits](https://github.com/DanielsData91/danielsdata91.github.io/blob/master/images/Screenshot%202024-10-30%20at%2016.11.22.png)
+<img src="images/Screenshot 2024-10-30 at 16.11.22.png"/>
 
 ### 3. Step 2: Customer Profiling
 
-![Customer Profiling](https://github.com/DanielsData91/danielsdata91.github.io/blob/master/images/Screenshot%202024-10-30%20at%2016.11.29.png)
+<img src="images/Screenshot 2024-10-30 at 16.11.29.png"/>
 
 ### 4. Challenges
 
-![Challenges](https://github.com/DanielsData91/danielsdata91.github.io/blob/master/images/Screenshot%202024-10-30%20at%2016.11.36.png)
+<img src="images/Screenshot 2024-10-30 at 16.11.36.png"/>
 
 ### 5. Conclusion and Recommendations
 
-![Conclusion and Recommendations](https://github.com/DanielsData91/danielsdata91.github.io/blob/master/images/Screenshot%202024-10-30%20at%2016.11.43.png)
+<img src="images/Screenshot 2024-10-30 at 16.11.43.png"/>
 
 ### Access to additional content
 
