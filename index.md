@@ -46,14 +46,25 @@ Access the Python Script Section by [clicking here](https://github.com/DanielsDa
 
 Access the Project Case Study Files by [clicking here](https://drive.google.com/file/d/1EoxlccECVwob6XTRJlb8JcdDoxHbz4GC/view?usp=drive_link) from my Google Drive.
 
-## Project 2: Rockbuster Stealth - Online Movie Rental Service Analysis
+<h2 class="about-heading">Project Case Study 2: Rockbuster Stealth - Online Movie Rental Service Analysis</h2>
 
-This project involves uploading data into a relational database to identify potential target markets for an online video rental service. The analysis focuses on geographical sales rates and the identification of high-value customers using descriptive analysis methods in PostgreSQL.
+### 1. Introduction
 
-[Rockbuster Stealth LLC](https://github.com/DanielsData91/Rockbuster-Stealth-Project)
+<img src="Rockbuster Images/Screenshot 2024-10-31 at 15.09.27 (2).png"/>
 
+### 2. Business Insights and How I identified them
 
-<img src="images/Rockbuster_Project.png"/>
+<img src="Rockbuster Images/Screenshot 2024-10-31 at 15.09.32 (2).png"/>
+
+### 3. Conclusion and Recommendations
+
+<img src="Rockbuster Images/Screenshot 2024-10-31 at 15.09.34 (2).png"/>
+
+### Access to additional content
+
+Access the SQL Code Section by [clicking here]([https://github.com/DanielsData91/Instacart-Basket-Analysis](https://github.com/DanielsData91/Rockbuster-Stealth-Project/tree/main/SQL%20Code)) from my GitHub Profile.
+
+Access the Project Case Study Files by [clicking here](https://drive.google.com/file/d/1V3kQ9nkyfYVaXbztePThmmGVTzqdR1q3/view?usp=drive_link) from my Google Drive.
 
 ## Project 3: Preparing for Influenza Season
 
