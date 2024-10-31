@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="styles.css">
 
-<img src="images/Data Analytics.png"/>
+<img src="images/Data Analytics 2.png"/>
 
 # About me in 10 words!
 <h2 class="about-heading">Passionate Data Analyst with a Background in Client-Centered Solutions</h2>
