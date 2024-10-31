@@ -62,7 +62,7 @@ Access the Project Case Study Files by [clicking here](https://drive.google.com/
 
 ### Access to additional content
 
-Access the SQL Code Section by [clicking here]([https://github.com/DanielsData91/Instacart-Basket-Analysis](https://github.com/DanielsData91/Rockbuster-Stealth-Project/tree/main/SQL%20Code)) from my GitHub Profile.
+Access the SQL Code Section by [clicking here](https://github.com/DanielsData91/Rockbuster-Stealth-Project/tree/main/SQL%20Code) from my GitHub Profile.
 
 Access the Project Case Study Files by [clicking here](https://drive.google.com/file/d/1V3kQ9nkyfYVaXbztePThmmGVTzqdR1q3/view?usp=drive_link) from my Google Drive.
 
