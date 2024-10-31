@@ -46,19 +46,24 @@ Access the Python Script Section by [clicking here](https://github.com/DanielsDa
 
 Access the Project Case Study Files by [clicking here](https://drive.google.com/file/d/1EoxlccECVwob6XTRJlb8JcdDoxHbz4GC/view?usp=drive_link) from my Google Drive.
 
+
+
+
 <h2 class="about-heading">Project Case Study 2: Rockbuster Stealth - Online Movie Rental Service Analysis</h2>
+
+<img src="images/Screenshot 2024-10-31 at 15.09.19 (2).png"/>
 
 ### 1. Introduction
 
-<img src="Rockbuster Images/Screenshot 2024-10-31 at 15.09.27 (2).png"/>
+<img src="images/Screenshot 2024-10-31 at 15.09.27 (2).png."/>
 
 ### 2. Business Insights and How I identified them
 
-<img src="Rockbuster Images/Screenshot 2024-10-31 at 15.09.32 (2).png"/>
+<img src="images/Screenshot 2024-10-31 at 15.09.32 (2).png"/>
 
 ### 3. Conclusion and Recommendations
 
-<img src="Rockbuster Images/Screenshot 2024-10-31 at 15.09.34 (2).png"/>
+<img src="images/Screenshot 2024-10-31 at 15.09.34 (2).png"/>
 
 ### Access to additional content
 
