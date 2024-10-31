@@ -53,7 +53,7 @@ Access the Project Case Study Files by [clicking here](https://drive.google.com/
 
 ### 1. Introduction
 
-<img src="images/Screenshot 2024-10-31 at 15.09.27 (2).png."/>
+<img src="images/Screenshot 2024-10-31 at 15.09.27 (2).png"/>
 
 ### 2. Business Insights and How I identified them
 
