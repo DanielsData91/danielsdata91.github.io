@@ -45,10 +45,8 @@ Access the Final Report by [clicking here](https://docs.google.com/spreadsheets/
 Access the Python Script Section by [clicking here](https://github.com/DanielsData91/Instacart-Basket-Analysis) from my GitHub Profile.
 
 Access the Project Case Study Files by [clicking here](https://drive.google.com/file/d/1EoxlccECVwob6XTRJlb8JcdDoxHbz4GC/view?usp=drive_link) from my Google Drive.
-
-
-
-
+<br><br>
+<br><br>
 <h2 class="about-heading">Project Case Study 2: Rockbuster Stealth - Online Movie Rental Service Analysis</h2>
 
 <img src="images/Screenshot 2024-10-31 at 15.09.19 (2).png"/>
