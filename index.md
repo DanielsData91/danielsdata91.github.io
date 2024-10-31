@@ -14,7 +14,7 @@ I’m actively seeking a Junior Data Analyst position where I can contribute to 
 **Scroll down to gain insights into my recent projects**
 
 ---
-## <h2 class="about-heading">Project Case Study 1: Instacart Basket Analysis</h2>
+<h2 class="about-heading">Project Case Study 1: Instacart Basket Analysis</h2>
 
 ### 1. Introduction
 
