@@ -11,6 +11,16 @@ I’m passionate about problem-solving and data storytelling, using my creativit
 
 I’m actively seeking a Junior Data Analyst position where I can contribute to a data-driven team and further develop my expertise in data visualization and analysis.
 
+<details>
+  <summary>📃 Resume</summary>
+  
+## Experience
+
+Here is a quick overview for you. But you can click the following link to vist my LinkedIn Profil to find all necessary details about my work history and educational background. <a href="www.linkedin.com/in/daniel-müller-profile/">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/> 
+
+</details>
+
 **Scroll down to gain more insights into my recent projects**
 
 ---
