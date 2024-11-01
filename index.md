@@ -38,8 +38,7 @@ Increased class enrollment by 30% within one year, launched 10 new classes, and 
 Impact: <br>
 Achieved a 70% conversion rate of new walk-in clients and established a specialized nutrition course held three times a year, significantly boosting service offerings and client loyalty.<br>
 
-</details>
-<br>
+</details><br>
 <details>
   <summary>📁 Projects</summary>
   
