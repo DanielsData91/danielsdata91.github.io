@@ -44,7 +44,7 @@ Access the Final Report by [clicking here](https://docs.google.com/spreadsheets/
 
 Access the Python Script Section by [clicking here](https://github.com/DanielsData91/Instacart-Basket-Analysis) from my GitHub Profile.
 
-Access the Project Case Study Files by [clicking here](https://drive.google.com/file/d/1EoxlccECVwob6XTRJlb8JcdDoxHbz4GC/view?usp=drive_link) from my Google Drive.
+Access the Project Case Study Files from my Google Drive by [clicking here](https://drive.google.com/file/d/1EoxlccECVwob6XTRJlb8JcdDoxHbz4GC/view?usp=drive_link).
 <br><br>
 <br><br>
 <h2 class="about-heading">Project Case Study 2: Rockbuster Stealth - Online Movie Rental Service Analysis</h2>
@@ -67,24 +67,55 @@ Access the Project Case Study Files by [clicking here](https://drive.google.com/
 
 Access the SQL Code Section by [clicking here](https://github.com/DanielsData91/Rockbuster-Stealth-Project/tree/main/SQL%20Code) from my GitHub Profile.
 
-Access the Project Case Study Files by [clicking here](https://drive.google.com/file/d/1V3kQ9nkyfYVaXbztePThmmGVTzqdR1q3/view?usp=drive_link) from my Google Drive.
+Access the Project Case Study Files from my Google Drive by [clicking here](https://drive.google.com/file/d/1V3kQ9nkyfYVaXbztePThmmGVTzqdR1q3/view?usp=drive_link).
+<br><br>
+<br><br>
+<h2 class="about-heading">Project Case Study 3: Preparing for Influenza Season</h2>
+<br><br>
+<img src="images/Collage Case Study CDC.png"/>
 
-## Project 3: Preparing for Influenza Season
+### 1. Introduction
+**Problem:**
+Each year, the USA faces a challenging influenza season with rising infection rates, especially among the growing elderly population. To manage this effectively, staffing agencies must strategically allocate healthcare workers to hospitals in states projected to have the highest influenza-related mortality rates in the coming year.
 
-This project aims to help a medical staffing agency plan for increased demand during the influenza season when hospitals and clinics require additional staff. By analyzing trends in influenza across the U.S., the goal is to proactively determine staffing needs for each state. The analysis will translate business requirements into actionable insights, ensuring the right number of temporary workers are sent to each location. While this project focuses on healthcare, the analytical approach can be applied to various industries.
+**Analysis Approach:**
+Used descriptive analysis to identify the most vulnerable groups and assess the demographic impact of influenza, highlighting high-risk populations.
+Mapped geographic regions with the highest mortality rates and identified seasonal patterns in influenza outbreaks to predict peak periods.
+Analyzed correlations between mortality rates and vulnerable population segments, enabling precise forecasting for effective resource allocation.
 
-[Preparing for Influenza Season](https://public.tableau.com/shared/YQ6WCNN4P?:display_count=n&:origin=viz_share_link/)
+**Targeted Distribution Strategy:**
+The objective was to pinpoint the U.S. regions most in need of support during the influenza season, ensuring optimal medical staff distribution for maximum impact. By forecasting high-risk areas and vulnerable populations, this approach supports efficient staffing decisions and improved preparedness for the upcoming influenza season.
+
+### 2. Approach - Staff Distribution
+**WHO - Individuals over 65 years**
+Conducted a descriptive analysis to quantify the composition of influenza-related mortality rates across age groups, revealing that individuals over 65 are most vulnerable—confirming key assumptions for the staffing agency. These findings allow the agency to prioritize resources and tailor staffing levels based on age-related risk
+
+**WHERE - Southern Region of the USA**
+By further identifying geographic locations with concentrated populations of vulnerable individuals, by using a geospatial analysis, the agency gains clear, data-backed guidance on where to allocate medical staff for the greatest impact. This insight enables strategic workforce deployment
+
+**WHEN - November - April**
+In addition, historical trend analysis of seasonal influenza patterns visualized in a line graph allows the agency to predict peak infection periods. Armed with this predictive insight, the agency can deploy staff ahead of peak times, maximizing readiness and reducing patient overload. Ultimately enhancing the efficiency and effectiveness of its services.
+
+### 3. Conclusion and Recommendations
+**Implement a Localized Vaccine Campaign**
+Target states with higher death counts among vulnerable groups to maximize immunization efforts. A focused vaccination drive could lower infection rates by approximately 20% in high-risk areas, improving seasonal readiness.
+
+**Launch an Educational Campaign**
+Develop presentations and public events to highlight influenza risks and the critical importance of vaccinations, aiming to increase vaccination uptake among vulnerable populations by at least 30%. This initiative can enhance community awareness and reduce seasonal infection rates.
+
+**Conduct a Staff and Patient Survey**
+Distribute surveys to gather insights from medical staff and patients regarding their influenza season experiences. Analyzing these responses will inform future staffing models and improve resource allocation strategies, potentially increasing efficiency in staff deployment by 25% based on informed feedback.
 
 
-<img src="images/Influenza Season_Project.png"/>
+### Access to additional content
 
+Access the Dashboard by [clicking here](https://public.tableau.com/shared/YQ6WCNN4P?:display_count=n&:origin=viz_share_link) to visit my Tableau page.
+
+Access the Project Case Study Files from my Google Drive by [clicking here](https://drive.google.com/file/d/1yu3zcjjm7o2ihsS3ddsNmiHr2e7kxUJl/view?usp=drive_link).
 
 ## Resume
 
-Following this link to quickly download my resume from [Google Drive](https://drive.google.com/file/d/1DXsuk8ZAIg2KwLMFD6r7BlGSjhCjuGWO/view?usp=drive_link)
-
-
-
+Following this link to quickly download my resume from [Google Drive](https://drive.google.com/file/d/1AyPYACmAiGfu91brKuZabJCuLaJeeMuW/view?usp=drive_link)
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
