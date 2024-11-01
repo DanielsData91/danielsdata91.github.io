@@ -13,9 +13,10 @@ I’m actively seeking a Junior Data Analyst position where I can contribute to 
 
 <details>
   <summary>📃 Resume</summary>
+  <br><br>
   
   ## Experience
-
+  <br><br>
   Here is a quick overview for you. You can also click the following link to visit my LinkedIn profile for full details about my work history and educational background:
   
   <a href="https://www.linkedin.com/in/daniel-müller-profile/">
