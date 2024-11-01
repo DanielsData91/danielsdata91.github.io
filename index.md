@@ -11,7 +11,77 @@ I’m passionate about problem-solving and data storytelling, using my creativit
 
 I’m actively seeking a Junior Data Analyst position where I can contribute to a data-driven team and further develop my expertise in data visualization and analysis.
 
-**Scroll down to gain insights into my recent projects**
+<details>
+  <summary>📃 Resume</summary>
+
+## Resume
+
+Following this link to quickly download my resume from [Google Drive](https://drive.google.com/file/d/1AyPYACmAiGfu91brKuZabJCuLaJeeMuW/view?usp=drive_link)
+
+## Experience
+
+Here is a quick overview for you. But you can click the following link to vist my LinkedIn Profil to find all necessary details about my work history and educational background. <a href="www.linkedin.com/in/daniel-müller-profile/">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/> 
+
+:man_office_worker: Instructor
+📆 April 2020 - December 2023
+📍 British Culture Academy, Kawaguchi/Japan
+
+**Impact** Increased class enrollment by 30% within one year, launched 10 new classes, and secured a new school partnership, expanding the Academy’s reach and service offerings.
+
+:man_office_worker: Nutrition Coach & Sales
+📆 July 2013 - December 2018
+📍Sportstudio vitafit GmbH, Dreieich/Germany
+
+**Impact** Achieved a 70% conversion rate of new walk-in clients, and established a specialized nutrition course held three times a year, significantly boosting service offerings and client loyalty.
+
+
+</details>
+
+<details>
+  <summary>📁 Projects</summary>
+  
+## Projects
+
+Here is a quick overview for you. But you can click the following link to visit my LinkedIn Profile to find all the necessary details about the projects I have done so far. <a href="https://danielsdata91.github.io/">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/> 
+
+- 👨‍💻 **Marketing Analyst**
+📆 2024/October
+📍 **CareerFoundry** - Berlin/Germany
+
+<img align="right" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+<img align="right" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+📁 Instacart Basket Analysis
+
+- 👨‍💻 **Data Analyst**
+📆 2024/September
+📍 **CareerFoundry** - Berlin/Germany
+
+<img align="right" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img align="right" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
+
+📁 Rockbuster Stealth Analysis
+
+
+- 👨‍💻 **Data Analyst**
+📆 2024/August
+📍 **CareerFoundry** - Berlin/Germany
+
+<img align="right" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
+
+📁 CDC - Preparing for Influenza Season
+
+
+</details>
+
+**Scroll down to gain more insights into my recent projects**
 
 ---
 <h2 class="about-heading">Project Case Study 1: Instacart Basket Analysis</h2>
@@ -112,10 +182,6 @@ Distribute surveys to gather insights from medical staff and patients regarding 
 Access the Dashboard by [clicking here](https://public.tableau.com/shared/YQ6WCNN4P?:display_count=n&:origin=viz_share_link) to visit my Tableau page.
 
 Access the Project Case Study Files from my Google Drive by [clicking here](https://drive.google.com/file/d/1yu3zcjjm7o2ihsS3ddsNmiHr2e7kxUJl/view?usp=drive_link).
-
-## Resume
-
-Following this link to quickly download my resume from [Google Drive](https://drive.google.com/file/d/1AyPYACmAiGfu91brKuZabJCuLaJeeMuW/view?usp=drive_link)
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
