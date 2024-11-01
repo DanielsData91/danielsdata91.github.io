@@ -21,22 +21,23 @@ Here is a quick overview for you. You can also click the following link to visit
 <a href="https://www.linkedin.com/in/daniel-müller-profile/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
 </a>
-
+<br><br>
 <br>
 
 🧑‍💼 **Instructor**<br>
 📆 April 2020 - December 2023<br>
-📍 British Culture Academy, Kawaguchi/Japan<br>
+📍 British Culture Academy, Kawaguchi/Japan
+<br><br>
 **Impact:** Increased class enrollment by 30% within one year, launched 10 new classes, and secured a new school partnership, expanding the Academy’s reach and service offerings.<br><br>
 
 🧑‍💼 **Nutrition Coach & Sales**<br>
 📆 July 2013 - December 2018<br>
-📍 Sportstudio vitafit GmbH, Dreieich/Germany<br>
+📍 Sportstudio vitafit GmbH, Dreieich/Germany
+<br><br>
 **Impact:** Achieved a 70% conversion rate of new walk-in clients and established a specialized nutrition course held three times a year, significantly boosting service offerings and client loyalty.
 
 </details>
 <br>
-
 <details>
   <summary>📁 Projects</summary>
   
@@ -47,32 +48,32 @@ Here is a quick overview for you. You can also click the following link to visit
 <a href="https://danielsdata91.github.io/">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
 </a>
-
+<br><br>
 <br>
 
 - 👨‍💻 **Marketing Analyst**<br>
   📆 October 2024<br>
-  📍 **CareerFoundry** - Berlin/Germany<br>
+  📍 **CareerFoundry** - Berlin/Germany
+  <br><br>
+  📁 Instacart Basket Analysis<br><br>
   <img align="right" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
   <img align="right" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
   <img align="right" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <br>
-  📁 Instacart Basket Analysis<br><br>
+  <br><br>
 
 - 👨‍💻 **Data Analyst**<br>
   📆 September 2024<br>
-  📍 **CareerFoundry** - Berlin/Germany<br>
+  📍 **CareerFoundry** - Berlin/Germany
+  <br><br>
+  📁 Rockbuster Stealth Analysis<br>
   <img align="right" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
   <img align="right" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
   <img align="right" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img align="right" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
-  <br>
-  📁 Rockbuster Stealth Analysis<br>
+  <br><br>
 
 </details>
 <br>
-
-
 
 **Scroll down to gain more insights into my recent projects**
 
