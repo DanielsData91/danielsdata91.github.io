@@ -13,8 +13,8 @@ I’m actively seeking a Junior Data Analyst position where I can contribute to 
 
 <details>
   <summary>📃 Resume</summary>
-<br><br>
-Experience
+<br>
+Experience<br>
 
 Here is a quick overview for you. You can also click the following link to visit my LinkedIn profile for full details about my work history and educational background:
 
@@ -36,7 +36,7 @@ Increased class enrollment by 30% within one year, launched 10 new classes, and 
 📍 Sportstudio vitafit GmbH, Dreieich/Germany
 <br><br>
 Impact: <br>
-Achieved a 70% conversion rate of new walk-in clients and established a specialized nutrition course held three times a year, significantly boosting service offerings and client loyalty.
+Achieved a 70% conversion rate of new walk-in clients and established a specialized nutrition course held three times a year, significantly boosting service offerings and client loyalty.<br>
 
 </details>
 <details>
