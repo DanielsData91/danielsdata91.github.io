@@ -14,7 +14,7 @@ I’m actively seeking a Junior Data Analyst position where I can contribute to 
 <details>
   <summary>📃 Resume</summary>
 
-### Experience
+__Experience__
 
 Here is a quick overview for you. You can also click the following link to visit my LinkedIn profile for full details about my work history and educational background:
 
@@ -24,24 +24,26 @@ Here is a quick overview for you. You can also click the following link to visit
 <br><br>
 <br>
 
-🧑‍💼 **Instructor**<br>
+🧑‍💼 __Instructor__ <br>
 📆 April 2020 - December 2023<br>
 📍 British Culture Academy, Kawaguchi/Japan
 <br><br>
-**Impact:** Increased class enrollment by 30% within one year, launched 10 new classes, and secured a new school partnership, expanding the Academy’s reach and service offerings.<br><br>
+__Impact:__ <br>
+Increased class enrollment by 30% within one year, launched 10 new classes, and secured a new school partnership, expanding the Academy’s reach and service offerings.<br><br>
 
-🧑‍💼 **Nutrition Coach & Sales**<br>
+🧑‍💼 __Nutrition Coach & Sales__ <br>
 📆 July 2013 - December 2018<br>
 📍 Sportstudio vitafit GmbH, Dreieich/Germany
 <br><br>
-**Impact:** Achieved a 70% conversion rate of new walk-in clients and established a specialized nutrition course held three times a year, significantly boosting service offerings and client loyalty.
+__Impact:__ <br>
+Achieved a 70% conversion rate of new walk-in clients and established a specialized nutrition course held three times a year, significantly boosting service offerings and client loyalty.
 
 </details>
 <br>
 <details>
   <summary>📁 Projects</summary>
   
-### Projects
+__Projects__
 
 Here is a quick overview for you. You can also click the following link to visit my GitHub profile for more details about the projects I have done so far: 
 
@@ -49,27 +51,28 @@ Here is a quick overview for you. You can also click the following link to visit
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
 </a>
 <br><br>
-<br>
 
 - 👨‍💻 **Marketing Analyst**<br>
   📆 October 2024<br>
-  📍 **CareerFoundry** - Berlin/Germany
+  📍 **CareerFoundry** - Berlin/Germany<br>
+  📁 Project Title: Instacart Basket Analysis
   <br><br>
-  📁 Instacart Basket Analysis<br><br>
-  <img align="right" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-  <img align="right" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
-  <img align="right" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  🧰 SKills:<br>
+  <img align="left" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+  <img align="left" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
+  <img align="left" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <br><br>
 
 - 👨‍💻 **Data Analyst**<br>
   📆 September 2024<br>
   📍 **CareerFoundry** - Berlin/Germany
+  📁 Project Title: Rockbuster Stealth Analysis
   <br><br>
-  📁 Rockbuster Stealth Analysis<br>
-  <img align="right" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
-  <img align="right" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img align="right" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img align="right" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
+  🧰 Skills:<br>
+  <img align="left" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
+  <img align="left" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img align="left" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img align="lreft" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
   <br><br>
 
 </details>
