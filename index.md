@@ -14,11 +14,14 @@ I’m actively seeking a Junior Data Analyst position where I can contribute to 
 <details>
   <summary>📃 Resume</summary>
   
-## Experience
+  ## Experience
 
-Here is a quick overview for you. But you can click the following link to vist my LinkedIn Profil to find all necessary details about my work history and educational background. <a href="www.linkedin.com/in/daniel-müller-profile/">
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/> 
-
+  Here is a quick overview for you. You can also click the following link to visit my LinkedIn profile for full details about my work history and educational background:
+  
+  <a href="https://www.linkedin.com/in/daniel-müller-profile/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
+  </a>
+  
 </details>
 
 **Scroll down to gain more insights into my recent projects**
