@@ -23,7 +23,7 @@ Here is a quick overview for you. You can also click the following link to visit
 </a>
 <br><br>
 
-Feel free to download my complete resume from [Google Drive](https://drive.google.com/file/d/1AyPYACmAiGfu91brKuZabJCuLaJeeMuW/view?usp=drive_link)
+Feel free to download my complete resume from [Google Drive](https://drive.google.com/file/d/1AyPYACmAiGfu91brKuZabJCuLaJeeMuW/view?usp=drive_link)<br>
 
 
 
