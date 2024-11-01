@@ -16,17 +16,16 @@ I’m actively seeking a Junior Data Analyst position where I can contribute to 
 <br>
 Experience<br>
 
-Here is a quick overview for you. You can also click the following link to visit my LinkedIn profile for full details about my work history and educational background:<br>
-
+Here is a quick overview for you. You can also click the following link to visit my LinkedIn profile for full details about my work history and educational background<br>
 <a href="https://www.linkedin.com/in/daniel-müller-profile/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
 </a>
 <br><br>
-
-Feel free to download my complete resume from [Google Drive](https://drive.google.com/file/d/1AyPYACmAiGfu91brKuZabJCuLaJeeMuW/view?usp=drive_link)<br>
-
-
-
+Feel free to download my complete resume from<br>
+<a href="https://drive.google.com/file/d/1AyPYACmAiGfu91brKuZabJCuLaJeeMuW/view?usp=drive_link/">
+  <img src="https://img.shields.io/badge/googledrive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
+</a>
+<br><br>
 🧑‍💼 Instructor <br>
 📆 April 2020 - December 2023<br>
 📍 British Culture Academy, Kawaguchi/Japan
