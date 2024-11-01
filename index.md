@@ -22,20 +22,55 @@ Here is a quick overview for you. You can also click the following link to visit
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
 </a>
 
-<br>
+<br><br>
 
-:man_office_worker: **Instructor**<br>
+🧑‍💼 **Instructor**<br>
 📆 April 2020 - December 2023<br>
 📍 British Culture Academy, Kawaguchi/Japan<br><br>
 **Impact:** Increased class enrollment by 30% within one year, launched 10 new classes, and secured a new school partnership, expanding the Academy’s reach and service offerings.<br><br>
 
-:man_office_worker: **Nutrition Coach & Sales**<br>
+🧑‍💼 **Nutrition Coach & Sales**<br>
 📆 July 2013 - December 2018<br>
 📍 Sportstudio vitafit GmbH, Dreieich/Germany<br><br>
 **Impact:** Achieved a 70% conversion rate of new walk-in clients and established a specialized nutrition course held three times a year, significantly boosting service offerings and client loyalty.
 
 </details>
 <br><br>
+
+
+<details>
+  <summary>📁 Projects</summary>
+  
+## Projects
+
+Here is a quick overview for you. But you can click the following link to visit my LinkedIn Profile to find all the necessary details about the projects I have done so far. <a href="https://danielsdata91.github.io/">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/> 
+
+- 👨‍💻 **Marketing Analyst**<br>
+📆 2024/October<br>
+📍 **CareerFoundry** - Berlin/Germany<br>
+
+<img align="right" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /><br>
+<img align="right" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" /><br>
+<img align="right" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/><br>
+
+📁 Instacart Basket Analysis
+
+- 👨‍💻 **Data Analyst**<br>
+📆 2024/September<br>
+📍 **CareerFoundry** - Berlin/Germany<br>
+
+<img align="right" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" /><br>
+<img align="right" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" /><br>
+<img align="right" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/><br>
+<img align="right" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/><br>
+
+📁 Rockbuster Stealth Analysis
+
+</details>
+<br><br>
+
+
 
 **Scroll down to gain more insights into my recent projects**
 
