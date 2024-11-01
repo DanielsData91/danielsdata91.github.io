@@ -14,15 +14,28 @@ I’m actively seeking a Junior Data Analyst position where I can contribute to 
 <details>
   <summary>📃 Resume</summary>
  
-  ### Experience
-  
+  **Experience**
+  <br><br>
   Here is a quick overview for you. You can also click the following link to visit my LinkedIn profile for full details about my work history and educational background:
-  
+  <br><br>
   <a href="https://www.linkedin.com/in/daniel-müller-profile/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
   </a>
+<br><br>
+  :man_office_worker: Instructor
+📆 April 2020 - December 2023
+📍 British Culture Academy, Kawaguchi/Japan
+<br><br>
+**Impact** Increased class enrollment by 30% within one year, launched 10 new classes, and secured a new school partnership, expanding the Academy’s reach and service offerings.
+
+:man_office_worker: Nutrition Coach & Sales<br><br>
+📆 July 2013 - December 2018<br><br>
+📍Sportstudio vitafit GmbH, Dreieich/Germany<br><br>
+<br><br>
+**Impact** Achieved a 70% conversion rate of new walk-in clients, and established a specialized nutrition course held three times a year, significantly boosting service offerings and client loyalty.
   
 </details>
+<br><br>
 
 **Scroll down to gain more insights into my recent projects**
 
