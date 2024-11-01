@@ -39,6 +39,7 @@ Impact: <br>
 Achieved a 70% conversion rate of new walk-in clients and established a specialized nutrition course held three times a year, significantly boosting service offerings and client loyalty.<br>
 
 </details>
+<br>
 <details>
   <summary>📁 Projects</summary>
   
@@ -55,7 +56,6 @@ Here is a quick overview for you. You can also click the following link to visit
   📆 October 2024<br>
   📍 CareerFoundry - Berlin/Germany<br>
   📁 Project Title: Instacart Basket Analysis
-  <br><br>
   🧰 SKills:<br>
   <img align="left" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
   <img align="left" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
@@ -64,9 +64,8 @@ Here is a quick overview for you. You can also click the following link to visit
 
 - 👨‍💻 Data Analyst<br>
   📆 September 2024<br>
-  📍 CareerFoundry - Berlin/Germany
+  📍 CareerFoundry - Berlin/Germany<br>
   📁 Project Title: Rockbuster Stealth Analysis
-  <br><br>
   🧰 Skills:<br>
   <img align="left" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
   <img align="left" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
