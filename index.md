@@ -13,8 +13,8 @@ I’m actively seeking a Junior Data Analyst position where I can contribute to 
 
 <details>
   <summary>📃 Resume</summary>
-
-__Experience__
+<br><br>
+Experience
 
 Here is a quick overview for you. You can also click the following link to visit my LinkedIn profile for full details about my work history and educational background:
 
@@ -24,26 +24,25 @@ Here is a quick overview for you. You can also click the following link to visit
 <br><br>
 <br>
 
-🧑‍💼 __Instructor__ <br>
+🧑‍💼 Instructor <br>
 📆 April 2020 - December 2023<br>
 📍 British Culture Academy, Kawaguchi/Japan
 <br><br>
-__Impact:__ <br>
+Impact: <br>
 Increased class enrollment by 30% within one year, launched 10 new classes, and secured a new school partnership, expanding the Academy’s reach and service offerings.<br><br>
 
-🧑‍💼 __Nutrition Coach & Sales__ <br>
+🧑‍💼 Nutrition Coach & Sales <br>
 📆 July 2013 - December 2018<br>
 📍 Sportstudio vitafit GmbH, Dreieich/Germany
 <br><br>
-__Impact:__ <br>
+Impact: <br>
 Achieved a 70% conversion rate of new walk-in clients and established a specialized nutrition course held three times a year, significantly boosting service offerings and client loyalty.
 
 </details>
-<br>
 <details>
   <summary>📁 Projects</summary>
   
-__Projects__
+Projects
 
 Here is a quick overview for you. You can also click the following link to visit my GitHub profile for more details about the projects I have done so far: 
 
@@ -52,9 +51,9 @@ Here is a quick overview for you. You can also click the following link to visit
 </a>
 <br><br>
 
-- 👨‍💻 **Marketing Analyst**<br>
+- 👨‍💻 Marketing Analyst<br>
   📆 October 2024<br>
-  📍 **CareerFoundry** - Berlin/Germany<br>
+  📍 CareerFoundry - Berlin/Germany<br>
   📁 Project Title: Instacart Basket Analysis
   <br><br>
   🧰 SKills:<br>
@@ -63,9 +62,9 @@ Here is a quick overview for you. You can also click the following link to visit
   <img align="left" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <br><br>
 
-- 👨‍💻 **Data Analyst**<br>
+- 👨‍💻 Data Analyst<br>
   📆 September 2024<br>
-  📍 **CareerFoundry** - Berlin/Germany
+  📍 CareerFoundry - Berlin/Germany
   📁 Project Title: Rockbuster Stealth Analysis
   <br><br>
   🧰 Skills:<br>
