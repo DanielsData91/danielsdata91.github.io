@@ -13,20 +13,24 @@ I’m actively seeking a Junior Data Analyst position where I can contribute to 
 
 <details>
   <summary>📃 Resume</summary>
-
+  
+<br><br>
+  
 ## Resume
 
 Following this link to quickly download my resume from [Google Drive](https://drive.google.com/file/d/1AyPYACmAiGfu91brKuZabJCuLaJeeMuW/view?usp=drive_link)
 
 ## Experience
-
+<br><br>
 Here is a quick overview for you. But you can click the following link to vist my LinkedIn Profil to find all necessary details about my work history and educational background. <a href="www.linkedin.com/in/daniel-müller-profile/">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/> 
 
 :man_office_worker: Instructor
+<br><br>
 📆 April 2020 - December 2023
+<br><br>
 📍 British Culture Academy, Kawaguchi/Japan
-
+<br><br>
 **Impact** Increased class enrollment by 30% within one year, launched 10 new classes, and secured a new school partnership, expanding the Academy’s reach and service offerings.
 
 :man_office_worker: Nutrition Coach & Sales
