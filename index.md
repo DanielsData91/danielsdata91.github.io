@@ -11,75 +11,6 @@ I’m passionate about problem-solving and data storytelling, using my creativit
 
 I’m actively seeking a Junior Data Analyst position where I can contribute to a data-driven team and further develop my expertise in data visualization and analysis.
 
-<details>
-  <summary>📃 Resume</summary>
-  
-<br><br>
-  
-## Resume
-<br><br>
-Following this link to quickly download my resume from [Google Drive](https://drive.google.com/file/d/1AyPYACmAiGfu91brKuZabJCuLaJeeMuW/view?usp=drive_link)
-<br><br>
-## Experience
-<br><br>
-Here is a quick overview for you. However, you can click the following link to visit my LinkedIn profile to find all the necessary details about my work history and educational background. <a href="www.linkedin.com/in/daniel-müller-profile/">
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/> 
-<br><br>
-:man_office_worker: Instructor
-📆 April 2020 - December 2023
-📍 British Culture Academy, Kawaguchi/Japan
-<br><br>
-**Impact** Increased class enrollment by 30% within one year, launched 10 new classes, and secured a new school partnership, expanding the Academy’s reach and service offerings.
-
-:man_office_worker: Nutrition Coach & Sales
-📆 July 2013 - December 2018
-📍Sportstudio vitafit GmbH, Dreieich/Germany
-
-**Impact** Achieved a 70% conversion rate of new walk-in clients, and established a specialized nutrition course held three times a year, significantly boosting service offerings and client loyalty.
-
-<details>
-  <summary>📁 Projects</summary>
-  
-## Projects
-
-Here is a quick overview for you. But you can click the following link to visit my LinkedIn Profile to find all the necessary details about the projects I have done so far. <a href="https://danielsdata91.github.io/">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/> 
-
-- 👨‍💻 **Marketing Analyst**
-📆 2024/October
-📍 **CareerFoundry** - Berlin/Germany
-
-<img align="right" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-<img align="right" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-
-📁 Instacart Basket Analysis
-
-- 👨‍💻 **Data Analyst**
-📆 2024/September
-📍 **CareerFoundry** - Berlin/Germany
-
-<img align="right" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img align="right" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
-
-📁 Rockbuster Stealth Analysis
-
-
-- 👨‍💻 **Data Analyst**
-📆 2024/August
-📍 **CareerFoundry** - Berlin/Germany
-
-<img align="right" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
-
-📁 CDC - Preparing for Influenza Season
-
-
-</details>
-
 **Scroll down to gain more insights into my recent projects**
 
 ---
@@ -137,7 +68,6 @@ Access the Project Case Study Files from my Google Drive by [clicking here](http
 Access the SQL Code Section by [clicking here](https://github.com/DanielsData91/Rockbuster-Stealth-Project/tree/main/SQL%20Code) from my GitHub Profile.
 
 Access the Project Case Study Files from my Google Drive by [clicking here](https://drive.google.com/file/d/1V3kQ9nkyfYVaXbztePThmmGVTzqdR1q3/view?usp=drive_link).
-<br><br>
 <br><br>
 <h2 class="about-heading">Project Case Study 3: Preparing for Influenza Season</h2>
 <br><br>
