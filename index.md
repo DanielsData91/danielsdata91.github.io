@@ -23,9 +23,8 @@ I’m actively seeking a Junior Data Analyst position where I can contribute to 
   </a>
 <br><br>
   :man_office_worker: Instructor
-📆 April 2020 - December 2023
+📆 April 2020 - December 2023<br><br>
 📍 British Culture Academy, Kawaguchi/Japan
-<br><br>
 **Impact** Increased class enrollment by 30% within one year, launched 10 new classes, and secured a new school partnership, expanding the Academy’s reach and service offerings.
 
 :man_office_worker: Nutrition Coach & Sales<br><br>
