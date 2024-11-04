@@ -90,14 +90,14 @@ Here is a quick overview for you. You can also click the following link to visit
   
   <h2 class="about-heading">1. Introduction</h2>
 
-  <h3>Challenge</h3>
-  <p>Developing marketing strategies based on data gained through initial and exploratory analysis.</p>
+  <p><strong>Problem</strong><br>
+  Developing marketing strategies based on data gained through initial and exploratory analysis.</p>
 
-  <h3>Process</h3>
-  <p>Conducted an exploratory analysis in Python to identify demographic classifications and examine relationships between customer profiles. Basic aggregations were performed to determine peak order times during the day at Instacart.</p>
+  <p><strong>Process</strong><br>
+  Conducted an exploratory analysis in Python to identify demographic classifications and examine relationships between customer profiles. Basic aggregations were performed to determine peak order times during the day at Instacart.</p>
 
-  <h3>Goal</h3>
-  <p>The goal was to identify the most profitable time frames for advertisements and target specific order habits of customer profiles.</p>
+  <p><strong>Goal</strong><br>
+  The goal was to identify the most profitable time frames for advertisements and target specific order habits of customer profiles.</p>
 
   <h2 class="about-heading">2. Step 1: Customer Ordering Habits</h2>
   <p>Understanding customer ordering patterns was crucial for targeted marketing. The analysis clarified purchase frequency, peak times, and popular products, guiding strategic timing for advertisements and product promotion.</p>
@@ -139,13 +139,12 @@ Here is a quick overview for you. You can also click the following link to visit
 </details>
 <br>
 
-
 <h2 class="about-heading">Project Case Study 2: Rockbuster Stealth - Online Movie Rental Service Analysis</h2>
 <br><br>
 <img src="images/Collage Case Study Rockbuster.png"/>
 
 <details>
-  <summary>📁 Project Case Study 2: Rockbuster Stealth - Online Movie Rental Service Analysis</summary>
+  <summary>📁 Project Case Study 2: Rockbuster Stealth - Online Movie Rental Service Analysis - Detailed Overview</summary>
 
   <h2 class="about-heading">1. Introduction</h2>
 
@@ -186,7 +185,6 @@ Here is a quick overview for you. You can also click the following link to visit
 </details>
 <br>
 
-
 <h2 class="about-heading">Project Case Study 3: Preparing for Influenza Season</h2>
 <br><br>
 <img src="images/Collage Case Study CDC.png"/>
@@ -196,47 +194,43 @@ Here is a quick overview for you. You can also click the following link to visit
   
   <h2 class="about-heading">1. Introduction</h2>
 
-  </h3>Problem</h3>
-Each year, the USA faces a challenging influenza season with rising infection rates, especially among the growing elderly population. To manage this effectively, staffing agencies must strategically allocate healthcare workers to hospitals in states projected to have the highest influenza-related mortality rates in the coming year.
+  <p><strong>Problem</strong><br>
+  Each year, the USA faces a challenging influenza season with rising infection rates, especially among the growing elderly population. To manage this effectively, staffing agencies must strategically allocate healthcare workers to hospitals in states projected to have the highest influenza-related mortality rates in the coming year.</p>
 
-  </h3>Analysis Approach</h3>
-Used descriptive analysis to identify the most vulnerable groups and assess the demographic impact of influenza, highlighting high-risk populations.
-Mapped geographic regions with the highest mortality rates and identified seasonal patterns in influenza outbreaks to predict peak periods.
-Analyzed correlations between mortality rates and vulnerable population segments, enabling precise forecasting for effective resource allocation.
+  <p><strong>Analysis Approach</strong><br>
+  Used descriptive analysis to identify the most vulnerable groups and assess the demographic impact of influenza, highlighting high-risk populations. Mapped geographic regions with the highest mortality rates and identified seasonal patterns in influenza outbreaks to predict peak periods. Analyzed correlations between mortality rates and vulnerable population segments, enabling precise forecasting for effective resource allocation.</p>
 
-  </h3>Targeted Distribution Strategy</h3>
-The objective was to pinpoint the U.S. regions most in need of support during the influenza season, ensuring optimal medical staff distribution for maximum impact. By forecasting high-risk areas and vulnerable populations, this approach supports efficient staffing decisions and improved preparedness for the upcoming influenza season.
+  <p><strong>Targeted Distribution Strategy</strong><br>
+  The objective was to pinpoint the U.S. regions most in need of support during the influenza season, ensuring optimal medical staff distribution for maximum impact. By forecasting high-risk areas and vulnerable populations, this approach supports efficient staffing decisions and improved preparedness for the upcoming influenza season.</p>
 
-<h2 class="about-heading">2. Approach - Staff Distribution</h2>
+  <h2 class="about-heading">2. Approach - Staff Distribution</h2>
 
-  </h3>WHO - Individuals over 65 years</h3>
-Conducted a descriptive analysis to quantify the composition of influenza-related mortality rates across age groups, revealing that individuals over 65 are most vulnerable—confirming key assumptions for the staffing agency. These findings allow the agency to prioritize resources and tailor staffing levels based on age-related risk
+  <p><strong>WHO - Individuals over 65 years</strong><br>
+  Conducted a descriptive analysis to quantify the composition of influenza-related mortality rates across age groups, revealing that individuals over 65 are most vulnerable—confirming key assumptions for the staffing agency. These findings allow the agency to prioritize resources and tailor staffing levels based on age-related risk.</p>
 
-  </h3>WHERE - Southern Region of the USA</h3>
-By further identifying geographic locations with concentrated populations of vulnerable individuals, by using a geospatial analysis, the agency gains clear, data-backed guidance on where to allocate medical staff for the greatest impact. This insight enables strategic workforce deployment
+  <p><strong>WHERE - Southern Region of the USA</strong><br>
+  By identifying geographic locations with concentrated populations of vulnerable individuals using geospatial analysis, the agency gains clear, data-backed guidance on where to allocate medical staff for the greatest impact. This insight enables strategic workforce deployment.</p>
 
-  </h3>WHEN - November - April</h3>
-In addition, historical trend analysis of seasonal influenza patterns visualized in a line graph allows the agency to predict peak infection periods. Armed with this predictive insight, the agency can deploy staff ahead of peak times, maximizing readiness and reducing patient overload. Ultimately enhancing the efficiency and effectiveness of its services.
+  <p><strong>WHEN - November to April</strong><br>
+  Historical trend analysis of seasonal influenza patterns visualized in a line graph allows the agency to predict peak infection periods. Armed with this predictive insight, the agency can deploy staff ahead of peak times, maximizing readiness and reducing patient overload, ultimately enhancing the efficiency and effectiveness of its services.</p>
 
-<h2 class="about-heading">3. Conclusion and Recommendations</h2>
+  <h2 class="about-heading">3. Conclusion and Recommendations</h2>
 
-  </h3>Implement a Localized Vaccine Campaign</h3>
-Target states with higher death counts among vulnerable groups to maximize immunization efforts. A focused vaccination drive could lower infection rates by approximately 20% in high-risk areas, improving seasonal readiness.
+  <p><strong>Implement a Localized Vaccine Campaign</strong><br>
+  Target states with higher death counts among vulnerable groups to maximize immunization efforts. A focused vaccination drive could lower infection rates by approximately 20% in high-risk areas, improving seasonal readiness.</p>
 
-  </h3>Launch an Educational Campaign</h3>
-Develop presentations and public events to highlight influenza risks and the critical importance of vaccinations, aiming to increase vaccination uptake among vulnerable populations by at least 30%. This initiative can enhance community awareness and reduce seasonal infection rates.
+  <p><strong>Launch an Educational Campaign</strong><br>
+  Develop presentations and public events to highlight influenza risks and the critical importance of vaccinations, aiming to increase vaccination uptake among vulnerable populations by at least 30%. This initiative can enhance community awareness and reduce seasonal infection rates.</p>
 
-  </h3>Conduct a Staff and Patient Survey</h3>
-Distribute surveys to gather insights from medical staff and patients regarding their influenza season experiences. Analyzing these responses will inform future staffing models and improve resource allocation strategies, potentially increasing efficiency in staff deployment by 25% based on informed feedback.
+  <p><strong>Conduct a Staff and Patient Survey</strong><br>
+  Distribute surveys to gather insights from medical staff and patients regarding their influenza season experiences. Analyzing these responses will inform future staffing models and improve resource allocation strategies, potentially increasing efficiency in staff deployment by 25% based on informed feedback.</p>
 
-<h2 class="about-heading">Access to additional content</h2>
-<p>Access the <a href="https://public.tableau.com/shared/YQ6WCNN4P?:display_count=n&:origin=viz_share_link">Dashboard</a> on my Tableau Profile.</p>
-<p>Access the <a href="https://drive.google.com/file/d/1yu3zcjjm7o2ihsS3ddsNmiHr2e7kxUJl/view?usp=drive_link">Project Case Study Files</a> on Google Drive.</p>
+  <h2 class="about-heading">Access to Additional Content</h2>
+  <p>Access the <a href="https://public.tableau.com/shared/YQ6WCNN4P?:display_count=n&:origin=viz_share_link">Dashboard</a> on my Tableau Profile.</p>
+  <p>Access the <a href="https://drive.google.com/file/d/1yu3zcjjm7o2ihsS3ddsNmiHr2e7kxUJl/view?usp=drive_link">Project Case Study Files</a> on Google Drive.</p>
 
 </details>
 <br>
-
-
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
