@@ -150,7 +150,7 @@ Here is a quick overview for you. You can also click the following link to visit
   <h2 class="about-heading">1. Introduction</h2>
 
   </h3>The challenge</h3>
-Conduct detailed data analysis to generate actionable insights that support the Business Intelligence team in crafting a strategic launch plan for an online rental service.
+  <p>Conduct detailed data analysis to generate actionable insights that support the Business Intelligence team in crafting a strategic launch plan for an online rental service.<p>
 
   </h3>The process**</h3>
 Utilized PostgreSQL to explore and analyze multiple datasets, executing complex functions to assess sales performance. Applied geospatial analysis to pinpoint high-lifetime-value customers and performed descriptive statistics with targeted filters to identify the most profitable countries and customer segments.
