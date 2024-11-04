@@ -149,13 +149,13 @@ Here is a quick overview for you. You can also click the following link to visit
 
   <h2 class="about-heading">1. Introduction</h2>
 
-</h3>he challenge</h3>
+  </h3>The challenge</h3>
 Conduct detailed data analysis to generate actionable insights that support the Business Intelligence team in crafting a strategic launch plan for an online rental service.
 
-</h3>The process**</h3>
+  </h3>The process**</h3>
 Utilized PostgreSQL to explore and analyze multiple datasets, executing complex functions to assess sales performance. Applied geospatial analysis to pinpoint high-lifetime-value customers and performed descriptive statistics with targeted filters to identify the most profitable countries and customer segments.
 
-</h3>The goal**</h3>
+  </h3>The goal**</h3>
 Define potential markets for the online rental service by evaluating sales contributions across countries, analyzing movie genres for performance, and identifying high-lifetime-value customers. These insights informed a data-driven strategy to optimize the service launch and maximize profitability.
 
 <h2 class="about-heading">2. Business Insights and How I identified them</h2>
@@ -166,16 +166,16 @@ The next step involved analyzing customer geolocation data to identify and prior
 
 <h2 class="about-heading">3. Conclusion and Recommendations</h2>
 
-</h3>Movie</h3>
+  </h3>Movie</h3>
 Prioritize adding movies with high-demand MPAA ratings (PG-13, PG, R) to the streaming service, and regularly monitor shifts in rating preferences to keep the content library relevant and appealing.
 
-</h3>Location</h3>
+  </h3>Location</h3>
 Given that Asia contributes 40% of total revenue, maintain targeted marketing efforts to sustain strong performance in this key region. Additionally, invest in marketing initiatives in underperforming regions to increase overall market share and diversify revenue sources.
 
-</h3>Customer</h3>
+  </h3>Customer</h3>
 Launch social media campaigns and loyalty programs, such as lotteries or rewards, for high-LTV countries like Reunion, the USA, Brazil, and top global customers to boost long-term customer value and encourage repeat engagement.
 
-</h3>Online Catalog</h3>
+  </h3>Online Catalog</h3>
 Expand the online catalog with movies from popular genres like Sports, Sci-Fi, and Animation, and prioritize promoting these genres on the website to enhance visibility and drive engagement.
 
 <h2 class="about-heading">Access to additional content</h2>
@@ -195,37 +195,37 @@ Expand the online catalog with movies from popular genres like Sports, Sci-Fi, a
   
   <h2 class="about-heading">1. Introduction</h2>
 
-</h3>Problem</h3>
+  </h3>Problem</h3>
 Each year, the USA faces a challenging influenza season with rising infection rates, especially among the growing elderly population. To manage this effectively, staffing agencies must strategically allocate healthcare workers to hospitals in states projected to have the highest influenza-related mortality rates in the coming year.
 
-</h3>Analysis Approach</h3>
+  </h3>Analysis Approach</h3>
 Used descriptive analysis to identify the most vulnerable groups and assess the demographic impact of influenza, highlighting high-risk populations.
 Mapped geographic regions with the highest mortality rates and identified seasonal patterns in influenza outbreaks to predict peak periods.
 Analyzed correlations between mortality rates and vulnerable population segments, enabling precise forecasting for effective resource allocation.
 
-</h3>Targeted Distribution Strategy</h3>
+  </h3>Targeted Distribution Strategy</h3>
 The objective was to pinpoint the U.S. regions most in need of support during the influenza season, ensuring optimal medical staff distribution for maximum impact. By forecasting high-risk areas and vulnerable populations, this approach supports efficient staffing decisions and improved preparedness for the upcoming influenza season.
 
 <h2 class="about-heading">2. Approach - Staff Distribution</h2>
 
-</h3>WHO - Individuals over 65 years</h3>
+  </h3>WHO - Individuals over 65 years</h3>
 Conducted a descriptive analysis to quantify the composition of influenza-related mortality rates across age groups, revealing that individuals over 65 are most vulnerable—confirming key assumptions for the staffing agency. These findings allow the agency to prioritize resources and tailor staffing levels based on age-related risk
 
-</h3>WHERE - Southern Region of the USA</h3>
+  </h3>WHERE - Southern Region of the USA</h3>
 By further identifying geographic locations with concentrated populations of vulnerable individuals, by using a geospatial analysis, the agency gains clear, data-backed guidance on where to allocate medical staff for the greatest impact. This insight enables strategic workforce deployment
 
-</h3>WHEN - November - April</h3>
+  </h3>WHEN - November - April</h3>
 In addition, historical trend analysis of seasonal influenza patterns visualized in a line graph allows the agency to predict peak infection periods. Armed with this predictive insight, the agency can deploy staff ahead of peak times, maximizing readiness and reducing patient overload. Ultimately enhancing the efficiency and effectiveness of its services.
 
 <h2 class="about-heading">3. Conclusion and Recommendations</h2>
 
-</h3>Implement a Localized Vaccine Campaign</h3>
+  </h3>Implement a Localized Vaccine Campaign</h3>
 Target states with higher death counts among vulnerable groups to maximize immunization efforts. A focused vaccination drive could lower infection rates by approximately 20% in high-risk areas, improving seasonal readiness.
 
-</h3>Launch an Educational Campaign</h3>
+  </h3>Launch an Educational Campaign</h3>
 Develop presentations and public events to highlight influenza risks and the critical importance of vaccinations, aiming to increase vaccination uptake among vulnerable populations by at least 30%. This initiative can enhance community awareness and reduce seasonal infection rates.
 
-</h3>Conduct a Staff and Patient Survey</h3>
+  </h3>Conduct a Staff and Patient Survey</h3>
 Distribute surveys to gather insights from medical staff and patients regarding their influenza season experiences. Analyzing these responses will inform future staffing models and improve resource allocation strategies, potentially increasing efficiency in staff deployment by 25% based on informed feedback.
 
 <h2 class="about-heading">Access to additional content</h2>
