@@ -78,19 +78,21 @@ Here is a quick overview for you. You can also click the following link to visit
 </details>
 <br>
 
-**Scroll down to gain more insights into my recent projects**
+**From here on you can read trough of my recent projects, the details will show up when clicking the link below the project portfolio image**
 
 ---
 <h2 class="about-heading">Project Case Study 1: Instacart Basket Analysis</h2>
 <br><br>
 <img src="images/Collage Case Study Instacart.png"/>
 
-### 1. Introduction
+<details>
+  <summary>📁 Project Case Study 1: Instacart Basket Analysis - Detailed Overview</summary>
+1. Introduction
 
-**The challenge**<br>
+<h2 class="about-heading">Challenge</h2><br>
 Developing marketing strategies based on data gained through initial and exploratory analysis.
 
-**The process**<br>
+The process<br>
 Conducting an exploratory analysis in Python to identify differences between classifications of demographic informations and examine possible relationships between customers profiles. Performing basic aggregations to discover the degree of capacity during the day at Instacart.
 
 **The goal**<br>
@@ -149,6 +151,10 @@ Access the Python Script Section by [clicking here](https://github.com/DanielsDa
 Access the Project Case Study Files from my Google Drive by [clicking here](https://drive.google.com/file/d/1EoxlccECVwob6XTRJlb8JcdDoxHbz4GC/view?usp=drive_link).
 <br><br>
 <br><br>
+
+</details>
+<br>
+
 <h2 class="about-heading">Project Case Study 2: Rockbuster Stealth - Online Movie Rental Service Analysis</h2>
 <br><br>
 <img src="images/Collage Case Study Rockbuster.png"/>
