@@ -145,42 +145,43 @@ Here is a quick overview for you. You can also click the following link to visit
 <img src="images/Collage Case Study Rockbuster.png"/>
 
 <details>
-  <summary>📁 Project Case Study 2: Rockbuster Stealth / Online Rental Service - Detailed Overview</summary>
+  <summary>📁 Project Case Study 2: Rockbuster Stealth - Online Movie Rental Service Analysis</summary>
 
   <h2 class="about-heading">1. Introduction</h2>
 
-  </h3>The challenge</h3>
-  <p>Conduct detailed data analysis to generate actionable insights that support the Business Intelligence team in crafting a strategic launch plan for an online rental service.<p>
+  <p><strong>The Challenge</strong><br>
+  Conduct detailed data analysis to generate actionable insights that support the Business Intelligence team in crafting a strategic launch plan for an online rental service.</p>
 
-  </h3>The process**</h3>
-Utilized PostgreSQL to explore and analyze multiple datasets, executing complex functions to assess sales performance. Applied geospatial analysis to pinpoint high-lifetime-value customers and performed descriptive statistics with targeted filters to identify the most profitable countries and customer segments.
+  <p><strong>The Process</strong><br>
+  Utilized PostgreSQL to explore and analyze multiple datasets, executing complex functions to assess sales performance. Applied geospatial analysis to pinpoint high-lifetime-value customers and performed descriptive statistics with targeted filters to identify the most profitable countries and customer segments.</p>
 
-  </h3>The goal**</h3>
-Define potential markets for the online rental service by evaluating sales contributions across countries, analyzing movie genres for performance, and identifying high-lifetime-value customers. These insights informed a data-driven strategy to optimize the service launch and maximize profitability.
+  <p><strong>The Goal</strong><br>
+  Define potential markets for the online rental service by evaluating sales contributions across countries, analyzing movie genres for performance, and identifying high-lifetime-value customers. These insights informed a data-driven strategy to optimize the service launch and maximize profitability.</p>
 
-<h2 class="about-heading">2. Business Insights and How I identified them</h2>
+  <h2 class="about-heading">2. Business Insights and How I Identified Them</h2>
 
-I began with a thorough statistical analysis to determine the top-performing genres and ratings, using aggregated metrics to identify content categories with the highest engagement and revenue potential. By pinpointing these profitable genres, I provided Rockbuster with targeted recommendations for expanding their digital library, focusing on high-demand content that aligns with customer preferences and maximizes potential ROI.
+  <p>I began with a thorough statistical analysis to determine the top-performing genres and ratings, using aggregated metrics to identify content categories with the highest engagement and revenue potential. By pinpointing these profitable genres, I provided Rockbuster with targeted recommendations for expanding their digital library, focusing on high-demand content that aligns with customer preferences and maximizes potential ROI.</p>
 
-The next step involved analyzing customer geolocation data to identify and prioritize high-value regions. Leveraging advanced grouping and filtering functions in PostgreSQL, I segmented customers based on lifetime value and created a detailed geospatial map in Tableau. This visualization revealed key geographic markets and hotspots for high-lifetime-value customers, equipping Rockbuster with actionable insights into not only what content is in demand but also where to direct targeted marketing efforts for optimized growth.
+  <p>The next step involved analyzing customer geolocation data to identify and prioritize high-value regions. Leveraging advanced grouping and filtering functions in PostgreSQL, I segmented customers based on lifetime value and created a detailed geospatial map in Tableau. This visualization revealed key geographic markets and hotspots for high-lifetime-value customers, equipping Rockbuster with actionable insights into not only what content is in demand but also where to direct targeted marketing efforts for optimized growth.</p>
 
-<h2 class="about-heading">3. Conclusion and Recommendations</h2>
+  <h2 class="about-heading">3. Conclusion and Recommendations</h2>
 
-  </h3>Movie</h3>
-Prioritize adding movies with high-demand MPAA ratings (PG-13, PG, R) to the streaming service, and regularly monitor shifts in rating preferences to keep the content library relevant and appealing.
+  <p><strong>Movie</strong><br>
+  Prioritize adding movies with high-demand MPAA ratings (PG-13, PG, R) to the streaming service, and regularly monitor shifts in rating preferences to keep the content library relevant and appealing.</p>
 
-  </h3>Location</h3>
-Given that Asia contributes 40% of total revenue, maintain targeted marketing efforts to sustain strong performance in this key region. Additionally, invest in marketing initiatives in underperforming regions to increase overall market share and diversify revenue sources.
+  <p><strong>Location</strong><br>
+  Given that Asia contributes 40% of total revenue, maintain targeted marketing efforts to sustain strong performance in this key region. Additionally, invest in marketing initiatives in underperforming regions to increase overall market share and diversify revenue sources.</p>
 
-  </h3>Customer</h3>
-Launch social media campaigns and loyalty programs, such as lotteries or rewards, for high-LTV countries like Reunion, the USA, Brazil, and top global customers to boost long-term customer value and encourage repeat engagement.
+  <p><strong>Customer</strong><br>
+  Launch social media campaigns and loyalty programs, such as lotteries or rewards, for high-LTV countries like Reunion, the USA, Brazil, and top global customers to boost long-term customer value and encourage repeat engagement.</p>
 
-  </h3>Online Catalog</h3>
-Expand the online catalog with movies from popular genres like Sports, Sci-Fi, and Animation, and prioritize promoting these genres on the website to enhance visibility and drive engagement.
+  <p><strong>Online Catalog</strong><br>
+  Expand the online catalog with movies from popular genres like Sports, Sci-Fi, and Animation, and prioritize promoting these genres on the website to enhance visibility and drive engagement.</p>
 
-<h2 class="about-heading">Access to additional content</h2>
-<p>Access the <a href="https://github.com/DanielsData91/Rockbuster-Stealth-Project/tree/main/SQL%20Code">SQL Code Section</a> on my GitHub Profile.</p>
-<p>Access the <a href="https://github.com/DanielsData91/Rockbuster-Stealth-Project/tree/main/SQL%20Code">Project Case Study Files</a> on Google Drive.</p>
+  <h2 class="about-heading">Access to Additional Content</h2>
+
+  <p>Access the <a href="https://github.com/DanielsData91/Rockbuster-Stealth-Project/tree/main/SQL%20Code">SQL Code Section</a> on my GitHub Profile.</p>
+  <p>Access the <a href="https://drive.google.com/file/d/1V3kQ9nkyfYVaXbztePThmmGVTzqdR1q3/view?usp=drive_link">Project Case Study Files</a> on Google Drive.</p>
 
 </details>
 <br>
