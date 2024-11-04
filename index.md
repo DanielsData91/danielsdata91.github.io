@@ -78,7 +78,7 @@ Here is a quick overview for you. You can also click the following link to visit
 </details>
 <br>
 
-**From here on you can read trough of my recent projects, the details will show up when clicking the link below the project portfolio image**
+**From here on you can read through my recent projects, the details will show up when clicking the link below the project portfolio image**
 
 ---
 <h2 class="about-heading">Project Case Study 1: Instacart Basket Analysis</h2>
@@ -87,73 +87,58 @@ Here is a quick overview for you. You can also click the following link to visit
 
 <details>
   <summary>📁 Project Case Study 1: Instacart Basket Analysis - Detailed Overview</summary>
-1. Introduction
+  
+  <h2 class="about-heading">1. Introduction</h2>
 
-<h2 class="about-heading">Challenge</h2><br>
-Developing marketing strategies based on data gained through initial and exploratory analysis.
+  <h3>Challenge</h3>
+  <p>Developing marketing strategies based on data gained through initial and exploratory analysis.</p>
 
-The process<br>
-Conducting an exploratory analysis in Python to identify differences between classifications of demographic informations and examine possible relationships between customers profiles. Performing basic aggregations to discover the degree of capacity during the day at Instacart.
+  <h3>Process</h3>
+  <p>Conducted an exploratory analysis in Python to identify demographic classifications and examine relationships between customer profiles. Basic aggregations were performed to determine peak order times during the day at Instacart.</p>
 
-**The goal**<br>
-The goal was to identify the most profitable time frames for placing commercials, and to carve out specific order habits of different customer profiles who the advertisements should be addressed to.
+  <h3>Goal</h3>
+  <p>The goal was to identify the most profitable time frames for advertisements and target specific order habits of customer profiles.</p>
 
-### 2. Step 1: Customer Ordering Habits
+  <h2 class="about-heading">2. Step 1: Customer Ordering Habits</h2>
+  <p>Understanding customer ordering patterns was crucial for targeted marketing. The analysis clarified purchase frequency, peak times, and popular products, guiding strategic timing for advertisements and product promotion.</p>
+  <p>Descriptive analysis in Python was used to identify customer loyalty metrics, specifically through intervals between repeat purchases. This enabled segmentation based on loyalty to enhance marketing effectiveness.</p>
 
-Understanding customer ordering patterns is crucial for the client’s targeted marketing efforts. This analysis aimed to clarify customer purchase frequency, peak purchasing times, and popular product preferences. With these insights, the client can strategically time their advertising and focus on promoting high-demand products to maximize engagement and return on marketing investment.
+  <h3>Insights</h3>
+  <ul>
+    <li>Loyal customers return after approximately 8 days.</li>
+    <li>Most orders occur between 10 am and 4 pm.</li>
+    <li>The busiest days are Sunday and Monday.</li>
+    <li>Produce department items are the most popular.</li>
+  </ul>
 
-In this phase, I performed descriptive analysis using Python to pinpoint key metrics and assess customer loyalty, specifically by analyzing the intervals between repeat purchases. This enabled us to segment customers based on loyalty and inform more effective marketing strategies.
+  <h2 class="about-heading">3. Step 2: Customer Profiling</h2>
+  <p>This analysis aimed to identify customer segments generating the highest revenue, essential for ad targeting. An exploratory data analysis grouped customers based on demographics, revealing age as a significant differentiator among high-value customers.</p>
 
-**Insights**<br>
-1: Loyal customers usually return after 8 days. 
-2: Most orders are placed between 10 am and 4 pm
-3: The busiest days are Sunday and Monday
-4: The most popular goods are from the produce department
+  <h3>Insights</h3>
+  <ul>
+    <li>Age is a key differentiator for high-value customers.</li>
+  </ul>
 
-### 3. Step 2: Customer Profiling
+  <h2 class="about-heading">4. Challenges - How I Solved Them</h2>
+  <ul>
+    <li><strong>NaN Values:</strong> During Step 1, unexpected NaN values appeared in age group data. This was resolved by refining the frequency flag definitions.</li>
+    <li><strong>Busiest Hours:</strong> Contradictory results in expenditure-by-hour analysis were corrected by regrouping orders and recalculating expenditure, yielding accurate peak hours.</li>
+  </ul>
 
-The previous analysis identified general customer ordering habits; however, it’s now essential to pinpoint which customer segments generate the most revenue. This is particularly valuable for tailoring advertisements to target high-value customer profiles effectively.
+  <h2 class="about-heading">5. Conclusion and Recommendations</h2>
+  <p><strong>Customer:</strong> Loyal customers return every 8 days, indicating strong retention. Targeting new strategies to convert regular customers to loyal ones could drive growth.</p>
+  <p><strong>Timing:</strong> The busiest ordering times are between 10 am and 4 pm on Sundays and Mondays. Scheduling ads during off-peak hours on Wednesdays and Thursdays could drive sales on quieter days.</p>
+  <p><strong>Product:</strong> Produce is the most popular department. Focused ads on high-demand items can boost consistent sales across customer profiles.</p>
+  <p><strong>Customer Profile:</strong> Married customers with 1-2 dependents across age groups are high purchasers. Targeting this demographic optimizes advertisement relevance and profitability.</p>
 
-I conducted an exploratory data analysis and created product labels, assigning them to distinct customer profiles based on key demographics such as age, marital status, and number of dependents. Insights from this analysis revealed that age is the most significant differentiator among high-value customers, providing a critical factor for refining marketing strategies.
-
-**Insights**<br>
-Age is the significant differentiator
-
-
-### 4. Challenges - How did I solve them?
-
-**1: Unexpected NaN Values during Step 1**<br>
-While analyzing age groups in relation to order frequency, I encountered unexpected NaN values in the crosstab output. To resolve this, I reviewed and refined the frequency flag definitions in the dataset, which corrected the categorization and provided accurate insights.
-
-**2: Busiest Hours of the Day and Expenditure**<br>
-In a separate analysis to identify peak purchasing hours, an initial expenditure-by-hour visualization showed contradictory results. I addressed this by regrouping all orders by hour and recalculating the total expenditure. This adjustment produced a line graph that accurately reflects the busiest hours, offering clearer insights into optimal times for targeted marketing efforts.
-
-### 5. Conclusion and Recommendations
-
-**Customer**<br>
-Loyal customers typically return to place a new order approximately every 8 days. While helpful, this insight is less critical compared to optimizing specific marketing strategies for targeted growth.
-
-**Timeing**<br>
-Customers place the highest number of orders between 10 am and 4 pm on Sundays and Mondays, making these ideal times for targeted ads to convert regular customers into loyal ones. To further drive sales, I recommend scheduling advertisements during off-peak times—such as early mornings (6 am to 8 am) and evenings (5 pm to 10 pm) on less busy days like Wednesdays and Thursdays. This strategic timing can increase traffic on slower days, balancing demand and enhancing revenue.
-
-**Product**<br>
-The produce department is the most popular, with products classified under the Food & Grocery label generating the highest number of orders across diverse customer segments. By focusing ads on these high-demand products, Instacart’s marketing team can increase engagement and drive more consistent sales across all customer profiles.
-
-**Customer Profile**<br>
-Married customers, especially those in households with 1-2 dependents, are among the highest purchasers across age groups. Knowing this demographic provides a complete view for the marketing team, allowing them to tailor advertisements effectively by focusing on not only when and what to advertise but also who the core audience should be. This level of targeting can significantly increase the profitability and precision of Instacart’s marketing strategy.
-
-### Access to additional content
-
-Access the Final Report by [clicking here](https://docs.google.com/spreadsheets/d/14rczGgmBJOYZWz8Xh7ZP6FYDQdYgK3tb/edit?usp=drive_link&ouid=102970833740850606782&rtpof=true&sd=true) from my Google Drive.
-
-Access the Python Script Section by [clicking here](https://github.com/DanielsData91/Instacart-Basket-Analysis) from my GitHub Profile.
-
-Access the Project Case Study Files from my Google Drive by [clicking here](https://drive.google.com/file/d/1EoxlccECVwob6XTRJlb8JcdDoxHbz4GC/view?usp=drive_link).
-<br><br>
-<br><br>
+  <h2 class="about-heading">Access to Additional Content</h2>
+  <p>Access the <a href="https://docs.google.com/spreadsheets/d/14rczGgmBJOYZWz8Xh7ZP6FYDQdYgK3tb/edit?usp=drive_link&ouid=102970833740850606782&rtpof=true&sd=true">Final Report</a> on Google Drive.</p>
+  <p>Access the <a href="https://github.com/DanielsData91/Instacart-Basket-Analysis">Python Script</a> on my GitHub Profile.</p>
+  <p>Access the <a href="https://drive.google.com/file/d/1EoxlccECVwob6XTRJlb8JcdDoxHbz4GC/view?usp=drive_link">Project Case Study Files</a> on Google Drive.</p>
 
 </details>
 <br>
+
 
 <h2 class="about-heading">Project Case Study 2: Rockbuster Stealth - Online Movie Rental Service Analysis</h2>
 <br><br>
