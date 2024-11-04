@@ -2,14 +2,19 @@
 
 <img src="images/Data Analytics 2.png"/>
 
-# About me in 10 words!
+# About me in 10 words as a Data Analyst!
 <h2 class="about-heading">Passionate Data Analyst with a Background in Client-Centered Solutions</h2>
 
-I’m a data analyst with a diverse background, open to relocation. Throughout my career, I’ve developed a strong ability to analyze client needs, create tailored solutions, and deliver insights that drive meaningful change. Now, I’m applying these skills to data analysis, specializing in transforming raw data into actionable insights with tools like Excel, Tableau, SQL, and Python.
+Welcome to my corner of the internet! I’m a data analyst with a rich and varied background, passionate about transforming data into powerful insights that drive meaningful change. My journey has taught me the importance of truly understanding client needs—by observing, asking the right questions, and developing tailored solutions that help achieve their goals.
 
-I’m passionate about problem-solving and data storytelling, using my creativity to build visualizations that empower organizations to make informed decisions. My unique background allows me to appreciate both the human and analytical aspects of data, providing a holistic approach to solving complex problems.
+I thrive on the challenge of turning raw data into actionable insights that empower organizations to grow and overcome obstacles. My unique blend of analytical skills and appreciation for the human aspect of data allows me to approach complex problems holistically.
 
-I’m actively seeking a Junior Data Analyst position where I can contribute to a data-driven team and further develop my expertise in data visualization and analysis.
+Currently based in Karlsruhe, Germany, I’m open to relocating for the right full-time opportunity to further my impact in the field.
+
+When I’m not diving into data, you can find me enjoying nature—whether it’s hiking the Camino de Compostela or exploring the breathtaking mountains of Austria. I also have a love for traveling to Asian countries, immersing myself in their rich languages and cultures.
+
+Join me on this exciting journey, and let’s explore the power of data together!
+<br>
 
 <details>
   <summary>📃 Resume</summary>
