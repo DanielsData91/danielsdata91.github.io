@@ -59,6 +59,17 @@ Here is a quick overview for you. You can also click the following link to visit
 </a>
 <br><br>
 
+- 👨‍💻 Costum Analyst<br>
+  📆 February 2025<br>
+  📍 CareerFoundry - Berlin/Germany<br>
+  📁 Project Title: Brazil E-Commerce Analysis<br>
+  🧰 SKills:<br>
+  <img align="left" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+  <img align="left" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
+  <img align="left" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
+  <img align="lreft" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
+  <br><br>
+
 - 👨‍💻 Marketing Analyst<br>
   📆 October 2024<br>
   📍 CareerFoundry - Berlin/Germany<br>
