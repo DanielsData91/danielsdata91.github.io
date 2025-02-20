@@ -99,65 +99,79 @@ Here is a quick overview for you. You can also click the following link to visit
 ---
 <h2 class="about-heading">Project Case Study 4: Brazil E-Commerce Analysis</h2>
 <br><br>
-<img src="images/Collage Case Study Instacart.png"/>
+<img src="images/Collage Brazil E-Commerce Analysis.png"/>
 
 <details>
-  <summary>📁 Project Case Study 1: Instacart Basket Analysis - Detailed Overview</summary>
+  <summary>📁 Project Case Study 4: Brazil E-Commerce Analysis - Detailed Overview</summary>
   
   <h2 class="about-heading">1. Introduction</h2>
 
-  <p><strong>Problem</strong><br>
-  Developing marketing strategies based on data gained through initial and exploratory analysis.</p>
+  <p><strong>The Challenge</strong><br>
+  I conducted a detailed data analysis in Python to generate valuable insights that supported the marketing team in developing a Franchise Program.</p>
 
-  <p><strong>Process</strong><br>
-  Conducted an exploratory analysis in Python to identify demographic classifications and examine relationships between customer profiles. Basic aggregations were performed to determine peak order times during the day at Instacart.</p>
+  <p><strong>The Process</strong><br>
+  Utilized Python to explore and analyze multiple datasets, applying complex functions to assess marketing performance and answer critical business questions. Conducted insightful analyses to test hypotheses.</p>
 
   <p><strong>Goal</strong><br>
-  The goal was to identify the most profitable time frames for advertisements and target specific order habits of customer profiles.</p>
+  Identified top-performing products by evaluating revenue, quantity sold, and average review scores. Assessed shipping performance and analyzed high-lifetime-value customers. These insights informed a data-driven approach to initiate the development of a Franchise Program in the western regions of Brazil.</p>
 
-  <h2 class="about-heading">2. Step 1: Customer Ordering Habits</h2>
-  <p>Understanding customer ordering patterns was crucial for targeted marketing. The analysis clarified purchase frequency, peak times, and popular products, guiding strategic timing for advertisements and product promotion.</p>
-  <p>Descriptive analysis in Python was used to identify customer loyalty metrics, specifically through intervals between repeat purchases. This enabled segmentation based on loyalty to enhance marketing effectiveness.</p>
+  <h2 class="about-heading">2. Hypothesis Testing</h2>
+  <p>I began exploring the relationship between the variables to test my hypothesis. Early on, I noticed that there appeared to be a relationship; however, the nature of this relationship could not be fully captured through exploratory data analysis (EDA) alone. Therefore, I decided to apply a more advanced analytical approach—linear regression analysis—to better understand the relationship. Unfortunately, the regression model proved to be less suitable than expected for capturing the complexity of the data.</p>
+  <p>Recognizing that a linear approach might not be sufficient, I took additional steps to uncover further insights. I turned to cluster analysis, which helped identify distinct patterns within the data. The clustering revealed groups of observations with different shipping behaviors, suggesting that the relationship between shipping days and shipping duration is not uniform across all data points. This segmentation provided valuable insights into different shipping performance categories, such as early deliveries, standard on-time shipments, and delayed orders. These insights could be leveraged to improve logistics processes and better manage customer expectations.
+</p>
 
-  <h3>Insights</h3>
-  <ul>
-    <li>Loyal customers return after approximately 8 days.</li>
-    <li>Most orders occur between 10 am and 4 pm.</li>
-    <li>The busiest days are Sunday and Monday.</li>
-    <li>Produce department items are the most popular.</li>
-  </ul>
+  <h3>Business Insights</h3>
+<p>Understanding the difference between actual shipping arrival dates and estimated shipping dates provides valuable insights into shipping performance. It helps identify potential delays and ensures that delivery processes can be optimized. Additionally, locating high-lifetime-value customers allows businesses to uncover new potential sales regions. Identifying the most profitable product categories per order further supports efforts to enhance product performance in underdeveloped markets, such as the western regions of Brazil. This could present an.</p>
+  <p>To uncover these insights, I conducted a detailed analysis using Python. This involved identifying the top product categories based on average revenue per order, evaluating shipping performance, and pinpointing customers with the highest lifetime value. These findings can guide data-driven decisions to optimize logistics, expand into new markets, and enhance product distribution strategies.
+Does this version capture what you had in mind? Let me know if you'd like any adjustments.
+</p>
 
-  <h2 class="about-heading">3. Step 2: Customer Profiling</h2>
+  <h2 class="about-heading">3. Challenges & Limitations</h2>
   <p>This analysis aimed to identify customer segments generating the highest revenue, essential for ad targeting. An exploratory data analysis grouped customers based on demographics, revealing age as a significant differentiator among high-value customers.</p>
 
-  <h3>Insights</h3>
+  <h3>Challenge 1</h3>
   <ul>
-    <li>Age is a key differentiator for high-value customers.</li>
+    <li>One of the main challenges I faced was my initial expectation that the data would reveal a clear relationship between the variables, confirming my hypothesis. When this expected relationship did not emerge, it was difficult to accept that my hypothesis might not be supported.
+
+I overcame this challenge by stepping back and reassessing my approach. I realized that not rejecting the null hypothesis is also a valuable result. It can indicate that the assumed relationship may not exist or may be more complex than anticipated. This understanding opened the door to further investigations, encouraging me to explore alternative factors and relationships within the data.</li>
   </ul>
 
-  <h2 class="about-heading">4. Challenges - How I Solved Them</h2>
+    <h3>Challenge 2</h3>
   <ul>
-    <li><strong>NaN Values:</strong> During Step 1, unexpected NaN values appeared in age group data. This was resolved by refining the frequency flag definitions.</li>
-    <li><strong>Busiest Hours:</strong> Contradictory results in expenditure-by-hour analysis were corrected by regrouping orders and recalculating expenditure, yielding accurate peak hours.</li>
+    <li>Another challenge was more technical. I found it difficult to recreate the same or similar visualizations in Tableau as I had initially produced in Python. Some custom plots and detailed adjustments were not as easily achievable in Tableau.
+
+I resolved this by simplifying the visualizations in Tableau and focusing more on providing clear explanations and context. This approach ensured that my insights were still effectively communicated, even if the visual output differed from my Python work.</li>
   </ul>
 
-  <h2 class="about-heading">5. Conclusion and Recommendations</h2>
-  <p><strong>Customer:</strong> Loyal customers return every 8 days, indicating strong retention. Targeting new strategies to convert regular customers to loyal ones could drive growth.</p>
-  <p><strong>Timing:</strong> The busiest ordering times are between 10 am and 4 pm on Sundays and Mondays. Scheduling ads during off-peak hours on Wednesdays and Thursdays could drive sales on quieter days.</p>
-  <p><strong>Product:</strong> Produce is the most popular department. Focused ads on high-demand items can boost consistent sales across customer profiles.</p>
-  <p><strong>Customer Profile:</strong> Married customers with 1-2 dependents across age groups are high purchasers. Targeting this demographic optimizes advertisement relevance and profitability.</p>
+  <h2 class="about-heading">4. Recommendations & Next Steps</h2>
 
+  <h3>Recommendaations</h3>
+  <ul>
+  <p><strong><1:</strong> Focus on High-Value States: Prioritize expanding in São Paulo, Rio de Janeiro, and Minas Gerais due to high revenue potential.</p>
+  <p><strong><2:</strong> Leverage High Lifetime Value Customers: Engage top customers in Praia Grande, Niterói, and Belo Horizonte with loyalty programs and targeted offers.</p>
+  <p><strong><3:</strong> Optimize Top-Selling Categories: Strengthen product offerings in Bed Bath Table, Computers Accessories, and Health Beauty categories.</p>
+  <p><strong><4:</strong> Improve Delivery Communication: Capitalize on early deliveries by promoting reliable and fast delivery as a competitive advantage.</p>
+  <p><strong><5:</strong> Maintain Customer Satisfaction: Continue focusing on product quality and service to maintain positive reviews and strengthen customer loyalty.</p>
+  <p><strong><6:</strong> Explore Seasonal Promotions: Investigate causes of sales dips in June-July and develop promotional campaigns to counteract this trend.</p>
+
+      <h3>Next Steps</h3>
+  <ul>
+  <p><strong><Detailed Market Analysis:</strong> Conduct a deeper regional analysis focusing on customer preferences and local competition.</p>
+  <p><strong><Customer Retention Strategies:</strong> Implement targeted marketing campaigns and loyalty programs for high-value customers.</p>
+  <p><strong><Operational Efficiency::</strong> Investigate logistics partners and processes to maintain or improve early delivery performance.</p>
+  <p><strong><Product Expansion:</strong> Evaluate the potential for expanding high-performing categories into underpenetrated regions.</p>
+  <p><strong></strong><Seasonality Research:</strong> Further investigate the June-July sales dip to determine underlying causes and refine promotional strategies accordingly.</p>
+  
   <h2 class="about-heading">Access to Additional Content</h2>
-  <p>Access the <a href="https://docs.google.com/spreadsheets/d/14rczGgmBJOYZWz8Xh7ZP6FYDQdYgK3tb/edit?usp=drive_link&ouid=102970833740850606782&rtpof=true&sd=true">Final Report</a> on Google Drive.</p>
-  <p>Access the <a href="https://github.com/DanielsData91/Instacart-Basket-Analysis">Python Script</a> on my GitHub Profile.</p>
-  <p>Access the <a href="https://drive.google.com/file/d/1EoxlccECVwob6XTRJlb8JcdDoxHbz4GC/view?usp=drive_link">Project Case Study Files</a> on Google Drive.</p>
+  <p>Access the <a href="https://Brazil E_Commerce_Analysis.ipynb>Python Script</a> on my GitHub Profile.</p>
+  <p>Access the <a href="https://drive.google.com/file/d/1xqplsiywyXzsuqX2Yj2TAv9MOJSY7_Wk/view?usp=drive_link>Final Report">Project Case Study Files</a> on Google Drive.</p>
 
 <h2 class="about-heading">Project Case Study 3: Instacart Basket Analysis</h2>
 <br><br>
 <img src="images/Collage Case Study Instacart.png"/>
 
 <details>
-  <summary>📁 Project Case Study 1: Instacart Basket Analysis - Detailed Overview</summary>
+  <summary>📁 Project Case Study 3: Instacart Basket Analysis - Detailed Overview</summary>
   
   <h2 class="about-heading">1. Introduction</h2>
 
