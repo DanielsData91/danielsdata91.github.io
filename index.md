@@ -160,14 +160,14 @@ I resolved this by simplifying the visualizations in Tableau and focusing more o
   <p><strong>Customer Retention Strategies:</strong> Implement targeted marketing campaigns and loyalty programs for high-value customers.</p>
   <p><strong>Operational Efficiency::</strong> Investigate logistics partners and processes to maintain or improve early delivery performance.</p>
   <p><strong>Product Expansion:</strong> Evaluate the potential for expanding high-performing categories into underpenetrated regions.</p>
-  <p><strong>/strong><Seasonality Research:</strong> Further investigate the June-July sales dip to determine underlying causes and refine promotional strategies accordingly.</p>
+  <p><strong>Seasonality Research:</strong> Further investigate the June-July sales dip to determine underlying causes and refine promotional strategies accordingly.</p>
   
   <h2 class="about-heading">Access to Additional Content</h2>
   <p>Access the <a href="https://Brazil E_Commerce_Analysis.ipynb>Python Script</a> on my GitHub Profile.</p>
   <p>Access the <a href="https://drive.google.com/file/d/1xqplsiywyXzsuqX2Yj2TAv9MOJSY7_Wk/view?usp=drive_link>Final Report">Project Case Study Files</a> on Google Drive.</p>
 
 </details>
-<br><br>
+<br>
 
 <h2 class="about-heading">Project Case Study 3: Instacart Basket Analysis</h2>
 <br><br>
