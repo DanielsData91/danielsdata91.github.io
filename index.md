@@ -136,7 +136,7 @@ Does this version capture what you had in mind? Let me know if you'd like any ad
 I overcame this challenge by stepping back and reassessing my approach. I realized that not rejecting the null hypothesis is also a valuable result. It can indicate that the assumed relationship may not exist or may be more complex than anticipated. This understanding opened the door to further investigations, encouraging me to explore alternative factors and relationships within the data.</li>
   </ul>
 
-    <h3>Challenge 2</h3>
+  <h3>Challenge 2</h3>
   <ul>
     <li>Another challenge was more technical. I found it difficult to recreate the same or similar visualizations in Tableau as I had initially produced in Python. Some custom plots and detailed adjustments were not as easily achievable in Tableau.
 
@@ -147,30 +147,33 @@ I resolved this by simplifying the visualizations in Tableau and focusing more o
 
   <h3>Recommendaations</h3>
   <ul>
-  <p><strong><1:</strong> Focus on High-Value States: Prioritize expanding in São Paulo, Rio de Janeiro, and Minas Gerais due to high revenue potential.</p>
-  <p><strong><2:</strong> Leverage High Lifetime Value Customers: Engage top customers in Praia Grande, Niterói, and Belo Horizonte with loyalty programs and targeted offers.</p>
-  <p><strong><3:</strong> Optimize Top-Selling Categories: Strengthen product offerings in Bed Bath Table, Computers Accessories, and Health Beauty categories.</p>
-  <p><strong><4:</strong> Improve Delivery Communication: Capitalize on early deliveries by promoting reliable and fast delivery as a competitive advantage.</p>
-  <p><strong><5:</strong> Maintain Customer Satisfaction: Continue focusing on product quality and service to maintain positive reviews and strengthen customer loyalty.</p>
-  <p><strong><6:</strong> Explore Seasonal Promotions: Investigate causes of sales dips in June-July and develop promotional campaigns to counteract this trend.</p>
+  <p><strong>1:</strong> Focus on High-Value States: Prioritize expanding in São Paulo, Rio de Janeiro, and Minas Gerais due to high revenue potential.</p>
+  <p><strong>2:</strong> Leverage High Lifetime Value Customers: Engage top customers in Praia Grande, Niterói, and Belo Horizonte with loyalty programs and targeted offers.</p>
+  <p><strong>3:</strong> Optimize Top-Selling Categories: Strengthen product offerings in Bed Bath Table, Computers Accessories, and Health Beauty categories.</p>
+  <p><strong>4:</strong> Improve Delivery Communication: Capitalize on early deliveries by promoting reliable and fast delivery as a competitive advantage.</p>
+  <p><strong>5:</strong> Maintain Customer Satisfaction: Continue focusing on product quality and service to maintain positive reviews and strengthen customer loyalty.</p>
+  <p><strong>6:</strong> Explore Seasonal Promotions: Investigate causes of sales dips in June-July and develop promotional campaigns to counteract this trend.</p>
 
-      <h3>Next Steps</h3>
+  <h3>Next Steps</h3>
   <ul>
-  <p><strong><Detailed Market Analysis:</strong> Conduct a deeper regional analysis focusing on customer preferences and local competition.</p>
-  <p><strong><Customer Retention Strategies:</strong> Implement targeted marketing campaigns and loyalty programs for high-value customers.</p>
-  <p><strong><Operational Efficiency::</strong> Investigate logistics partners and processes to maintain or improve early delivery performance.</p>
-  <p><strong><Product Expansion:</strong> Evaluate the potential for expanding high-performing categories into underpenetrated regions.</p>
-  <p><strong></strong><Seasonality Research:</strong> Further investigate the June-July sales dip to determine underlying causes and refine promotional strategies accordingly.</p>
+  <p><strong>Detailed Market Analysis:</strong> Conduct a deeper regional analysis focusing on customer preferences and local competition.</p>
+  <p><strong>Customer Retention Strategies:</strong> Implement targeted marketing campaigns and loyalty programs for high-value customers.</p>
+  <p><strong>Operational Efficiency::</strong> Investigate logistics partners and processes to maintain or improve early delivery performance.</p>
+  <p><strong>Product Expansion:</strong> Evaluate the potential for expanding high-performing categories into underpenetrated regions.</p>
+  <p><strong>/strong><Seasonality Research:</strong> Further investigate the June-July sales dip to determine underlying causes and refine promotional strategies accordingly.</p>
   
   <h2 class="about-heading">Access to Additional Content</h2>
   <p>Access the <a href="https://Brazil E_Commerce_Analysis.ipynb>Python Script</a> on my GitHub Profile.</p>
   <p>Access the <a href="https://drive.google.com/file/d/1xqplsiywyXzsuqX2Yj2TAv9MOJSY7_Wk/view?usp=drive_link>Final Report">Project Case Study Files</a> on Google Drive.</p>
 
+</details>
+<br>
+
 <h2 class="about-heading">Project Case Study 3: Instacart Basket Analysis</h2>
 <br><br>
 <img src="images/Collage Case Study Instacart.png"/>
 
-<details>
+</details>
   <summary>📁 Project Case Study 3: Instacart Basket Analysis - Detailed Overview</summary>
   
   <h2 class="about-heading">1. Introduction</h2>
