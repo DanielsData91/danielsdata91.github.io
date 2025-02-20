@@ -103,68 +103,68 @@ Here is a quick overview for you. You can also click the following link to visit
 
 <details>
   <summary>📁 Project Case Study 4: Brazil E-Commerce Analysis - Detailed Overview</summary>
-  
-  <h2 class="about-heading">1. Introduction</h2>
+<h2 class="about-heading">Project Case Study 4: Brazil E-Commerce Analysis</h2>
+<br><br>
+<img src="images/Collage Brazil E-Commerce Analysis.png"/>
 
-  <p><strong>The Challenge</strong><br>
-  I conducted a detailed data analysis in Python to generate valuable insights that supported the marketing team in developing a Franchise Program.</p>
+<h2 class="about-heading">1. Introduction</h2>
+<p><strong>The Challenge</strong><br>
+I conducted a detailed data analysis in Python to generate valuable insights that supported the marketing team in developing a Franchise Program.</p>
 
-  <p><strong>The Process</strong><br>
-  Utilized Python to explore and analyze multiple datasets, applying complex functions to assess marketing performance and answer critical business questions. Conducted insightful analyses to test hypotheses.</p>
+<p><strong>The Process</strong><br>
+Utilized Python to explore and analyze multiple datasets, applying complex functions to assess marketing performance and answer critical business questions. Conducted insightful analyses to test hypotheses.</p>
 
-  <p><strong>Goal</strong><br>
-  Identified top-performing products by evaluating revenue, quantity sold, and average review scores. Assessed shipping performance and analyzed high-lifetime-value customers. These insights informed a data-driven approach to initiate the development of a Franchise Program in the western regions of Brazil.</p>
+<p><strong>Goal</strong><br>
+Identified top-performing products by evaluating revenue, quantity sold, and average review scores. Assessed shipping performance and analyzed high-lifetime-value customers. These insights informed a data-driven approach to initiate the development of a Franchise Program in the western regions of Brazil.</p>
 
-  <h2 class="about-heading">2. Hypothesis Testing</h2>
-  <p>I began exploring the relationship between the variables to test my hypothesis. Early on, I noticed that there appeared to be a relationship; however, the nature of this relationship could not be fully captured through exploratory data analysis (EDA) alone. Therefore, I decided to apply a more advanced analytical approach—linear regression analysis—to better understand the relationship. Unfortunately, the regression model proved to be less suitable than expected for capturing the complexity of the data.</p>
-  <p>Recognizing that a linear approach might not be sufficient, I took additional steps to uncover further insights. I turned to cluster analysis, which helped identify distinct patterns within the data. The clustering revealed groups of observations with different shipping behaviors, suggesting that the relationship between shipping days and shipping duration is not uniform across all data points. This segmentation provided valuable insights into different shipping performance categories, such as early deliveries, standard on-time shipments, and delayed orders. These insights could be leveraged to improve logistics processes and better manage customer expectations.
-</p>
+<h2 class="about-heading">2. Hypothesis Testing</h2>
+<p>I began exploring the relationship between the variables to test my hypothesis. Early on, I noticed that there appeared to be a relationship; however, the nature of this relationship could not be fully captured through exploratory data analysis (EDA) alone. Therefore, I decided to apply a more advanced analytical approach—linear regression analysis—to better understand the relationship. Unfortunately, the regression model proved to be less suitable than expected for capturing the complexity of the data.</p>
 
-  <h3>Business Insights</h3>
-<p>Understanding the difference between actual shipping arrival dates and estimated shipping dates provides valuable insights into shipping performance. It helps identify potential delays and ensures that delivery processes can be optimized. Additionally, locating high-lifetime-value customers allows businesses to uncover new potential sales regions. Identifying the most profitable product categories per order further supports efforts to enhance product performance in underdeveloped markets, such as the western regions of Brazil. This could present an.</p>
-  <p>To uncover these insights, I conducted a detailed analysis using Python. This involved identifying the top product categories based on average revenue per order, evaluating shipping performance, and pinpointing customers with the highest lifetime value. These findings can guide data-driven decisions to optimize logistics, expand into new markets, and enhance product distribution strategies.
-Does this version capture what you had in mind? Let me know if you'd like any adjustments.
-</p>
+<p>Recognizing that a linear approach might not be sufficient, I took additional steps to uncover further insights. I turned to cluster analysis, which helped identify distinct patterns within the data. The clustering revealed groups of observations with different shipping behaviors, suggesting that the relationship between shipping days and shipping duration is not uniform across all data points. This segmentation provided valuable insights into different shipping performance categories, such as early deliveries, standard on-time shipments, and delayed orders. These insights could be leveraged to improve logistics processes and better manage customer expectations.</p>
 
-  <h2 class="about-heading">3. Challenges & Limitations</h2>
-  <p>This analysis aimed to identify customer segments generating the highest revenue, essential for ad targeting. An exploratory data analysis grouped customers based on demographics, revealing age as a significant differentiator among high-value customers.</p>
+<h3>Business Insights</h3>
+<p>Understanding the difference between actual shipping arrival dates and estimated shipping dates provides valuable insights into shipping performance. It helps identify potential delays and ensures that delivery processes can be optimized. Additionally, locating high-lifetime-value customers allows businesses to uncover new potential sales regions. Identifying the most profitable product categories per order further supports efforts to enhance product performance in underdeveloped markets, such as the western regions of Brazil.</p>
 
-  <h3>Challenge 1</h3>
-  <ul>
-    <li>One of the main challenges I faced was my initial expectation that the data would reveal a clear relationship between the variables, confirming my hypothesis. When this expected relationship did not emerge, it was difficult to accept that my hypothesis might not be supported.
+<p>To uncover these insights, I conducted a detailed analysis using Python. This involved identifying the top product categories based on average revenue per order, evaluating shipping performance, and pinpointing customers with the highest lifetime value. These findings can guide data-driven decisions to optimize logistics, expand into new markets, and enhance product distribution strategies.</p>
+
+<h2 class="about-heading">3. Challenges & Limitations</h2>
+<p>This analysis aimed to identify customer segments generating the highest revenue, essential for ad targeting. An exploratory data analysis grouped customers based on demographics, revealing age as a significant differentiator among high-value customers.</p>
+
+<h3>Challenge 1</h3>
+<ul>
+  <li>One of the main challenges I faced was my initial expectation that the data would reveal a clear relationship between the variables, confirming my hypothesis. When this expected relationship did not emerge, it was difficult to accept that my hypothesis might not be supported.
 
 I overcame this challenge by stepping back and reassessing my approach. I realized that not rejecting the null hypothesis is also a valuable result. It can indicate that the assumed relationship may not exist or may be more complex than anticipated. This understanding opened the door to further investigations, encouraging me to explore alternative factors and relationships within the data.</li>
-  </ul>
+</ul>
 
-  <h3>Challenge 2</h3>
-  <ul>
-    <li>Another challenge was more technical. I found it difficult to recreate the same or similar visualizations in Tableau as I had initially produced in Python. Some custom plots and detailed adjustments were not as easily achievable in Tableau.
+<h3>Challenge 2</h3>
+<ul>
+  <li>Another challenge was more technical. I found it difficult to recreate the same or similar visualizations in Tableau as I had initially produced in Python. Some custom plots and detailed adjustments were not as easily achievable in Tableau.
 
 I resolved this by simplifying the visualizations in Tableau and focusing more on providing clear explanations and context. This approach ensured that my insights were still effectively communicated, even if the visual output differed from my Python work.</li>
-  </ul>
+</ul>
 
-  <h2 class="about-heading">4. Recommendations & Next Steps</h2>
+<h2 class="about-heading">4. Recommendations & Next Steps</h2>
 
-  <h3>Recommendations</h3>
-  
-  <p><strong>1:</strong> Focus on High-Value States: Prioritize expanding in São Paulo, Rio de Janeiro, and Minas Gerais due to high revenue potential.</p>
-  <p><strong>2:</strong> Leverage High Lifetime Value Customers: Engage top customers in Praia Grande, Niterói, and Belo Horizonte with loyalty programs and targeted offers.</p>
-  <p><strong>3:</strong> Optimize Top-Selling Categories: Strengthen product offerings in Bed Bath Table, Computers Accessories, and Health Beauty categories.</p>
-  <p><strong>4:</strong> Improve Delivery Communication: Capitalize on early deliveries by promoting reliable and fast delivery as a competitive advantage.</p>
-  <p><strong>5:</strong> Maintain Customer Satisfaction: Continue focusing on product quality and service to maintain positive reviews and strengthen customer loyalty.</p>
-  <p><strong>6:</strong> Explore Seasonal Promotions: Investigate causes of sales dips in June-July and develop promotional campaigns to counteract this trend.</p>
+<h3>Recommendations</h3>
+<p><strong>1:</strong> Focus on High-Value States: Prioritize expanding in São Paulo, Rio de Janeiro, and Minas Gerais due to high revenue potential.</p>
+<p><strong>2:</strong> Leverage High Lifetime Value Customers: Engage top customers in Praia Grande, Niterói, and Belo Horizonte with loyalty programs and targeted offers.</p>
+<p><strong>3:</strong> Optimize Top-Selling Categories: Strengthen product offerings in Bed Bath Table, Computers Accessories, and Health Beauty categories.</p>
+<p><strong>4:</strong> Improve Delivery Communication: Capitalize on early deliveries by promoting reliable and fast delivery as a competitive advantage.</p>
+<p><strong>5:</strong> Maintain Customer Satisfaction: Continue focusing on product quality and service to maintain positive reviews and strengthen customer loyalty.</p>
+<p><strong>6:</strong> Explore Seasonal Promotions: Investigate causes of sales dips in June-July and develop promotional campaigns to counteract this trend.</p>
 
-  <h3>Next Steps</h3>
-  
-  <p><strong>Detailed Market Analysis:</strong> Conduct a deeper regional analysis focusing on customer preferences and local competition.</p>
-  <p><strong>Customer Retention Strategies:</strong> Implement targeted marketing campaigns and loyalty programs for high-value customers.</p>
-  <p><strong>Operational Efficiency::</strong> Investigate logistics partners and processes to maintain or improve early delivery performance.</p>
-  <p><strong>Product Expansion:</strong> Evaluate the potential for expanding high-performing categories into underpenetrated regions.</p>
-  <p><strong>Seasonality Research:</strong> Further investigate the June-July sales dip to determine underlying causes and refine promotional strategies accordingly.</p>
-  
-  <h2 class="about-heading">Access to Additional Content</h2>
-  <p>Access the <a href="https://Brazil E_Commerce_Analysis.ipynb>Python Script</a> on my GitHub Profile.</p>
-  <p>Access the <a href="https://drive.google.com/file/d/1xqplsiywyXzsuqX2Yj2TAv9MOJSY7_Wk/view?usp=drive_link>Final Report">Project Case Study Files</a> on Google Drive.</p>
+<h3>Next Steps</h3>
+<p><strong>Detailed Market Analysis:</strong> Conduct a deeper regional analysis focusing on customer preferences and local competition.</p>
+<p><strong>Customer Retention Strategies:</strong> Implement targeted marketing campaigns and loyalty programs for high-value customers.</p>
+<p><strong>Operational Efficiency:</strong> Investigate logistics partners and processes to maintain or improve early delivery performance.</p>
+<p><strong>Product Expansion:</strong> Evaluate the potential for expanding high-performing categories into underpenetrated regions.</p>
+<p><strong>Seasonality Research:</strong> Further investigate the June-July sales dip to determine underlying causes and refine promotional strategies accordingly.</p>
+
+<h2 class="about-heading">Access to Additional Content</h2>
+<p>Access the <a href="https://Brazil E_Commerce_Analysis.ipynb">Python Script</a> on my GitHub Profile.</p>
+<p>Access the <a href="https://drive.google.com/file/d/1xqplsiywyXzsuqX2Yj2TAv9MOJSY7_Wk/view?usp=drive_link">Final Report</a> on Google Drive.</p>
+
   
 </details>
 <br>
