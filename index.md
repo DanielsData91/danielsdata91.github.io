@@ -167,7 +167,7 @@ I resolved this by simplifying the visualizations in Tableau and focusing more o
   <p>Access the <a href="https://drive.google.com/file/d/1xqplsiywyXzsuqX2Yj2TAv9MOJSY7_Wk/view?usp=drive_link>Final Report">Project Case Study Files</a> on Google Drive.</p>
 
 </details>
-<br>
+<br><br>
 
 <h2 class="about-heading">Project Case Study 3: Instacart Basket Analysis</h2>
 <br><br>
