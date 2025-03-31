@@ -165,7 +165,7 @@ Here is a quick overview for you. You can also click the following link to visit
   <h2 class="about-heading">1. Introduction</h2>
 
   <p><strong>The Challenge</strong><br>
-  Conduct detailed data analysis to generate actionable insights that support the Business Intelligence team in crafting a strategic launch plan for an online rental service.</p>
+  Conducted detailed data analysis to generate actionable insights that support the Business Intelligence team in crafting a strategic launch plan for an online rental service.</p>
 
   <p><strong>The Process</strong><br>
   Utilized PostgreSQL to explore and analyze multiple datasets, executing complex functions to assess sales performance. Applied geospatial analysis to pinpoint high-lifetime-value customers and performed descriptive statistics with targeted filters to identify the most profitable countries and customer segments.</p>
@@ -182,13 +182,13 @@ Here is a quick overview for you. You can also click the following link to visit
   <h2 class="about-heading">3. Conclusion and Recommendations</h2>
 
   <p><strong>Movie</strong><br>
-  Prioritize adding movies with high-demand MPAA ratings (PG-13, PG, R) to the streaming service, and regularly monitor shifts in rating preferences to keep the content library relevant and appealing.</p>
+  Prioritize adding movies with high-demand MPAA ratings (PG-13, PG, R) to the streaming service and regularly monitor shifts in rating preferences to keep the content library relevant and appealing.</p>
 
   <p><strong>Location</strong><br>
-  Given that Asia contributes 40% of total revenue, maintain targeted marketing efforts to sustain strong performance in this key region. Additionally, invest in marketing initiatives in underperforming regions to increase overall market share and diversify revenue sources.</p>
+  Since Asia contributes 40% of the total revenue, maintain targeted marketing efforts to sustain strong performance in this key region. Additionally, invest in marketing initiatives in underperforming regions to increase overall market share and diversify revenue sources.</p>
 
   <p><strong>Customer</strong><br>
-  Launch social media campaigns and loyalty programs, such as lotteries or rewards, for high-LTV countries like Reunion, the USA, Brazil, and top global customers to boost long-term customer value and encourage repeat engagement.</p>
+  Launch social media campaigns and loyalty programs, such as lotteries or rewards, for high-LTV countries like Reunion, the USA, Brazil and top global customers to boost long-term customer value and encourage repeat engagement.</p>
 
   <p><strong>Online Catalog</strong><br>
   Expand the online catalog with movies from popular genres like Sports, Sci-Fi, and Animation, and prioritize promoting these genres on the website to enhance visibility and drive engagement.</p>
@@ -206,7 +206,7 @@ Here is a quick overview for you. You can also click the following link to visit
 <img src="images/Collage Case Study CDC.png"/>
 
 <details>
-  <summary>📁 Project Case Study 3: CDC / Preparing for Influenza Season - Detailed Overview</summary>
+  <summary>📁 Project Case Study 1: CDC / Preparing for Influenza Season - Detailed Overview</summary>
   
   <h2 class="about-heading">1. Introduction</h2>
 
