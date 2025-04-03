@@ -120,7 +120,7 @@ Click on each project for a **detailed breakdown**.
   <summary>📂 Click to Expand - Project Details</summary>
 
 ### 1️⃣ Introduction
-**Challene:**  
+**Challenge:**  
 I conducted a detailed data analysis in Python to generate valuable insights that supported the marketing team in developing a Franchise Program.
 
 **Process:**  
