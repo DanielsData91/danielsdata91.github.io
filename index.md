@@ -173,7 +173,6 @@ Delayed: 5506 shippings / **6.43%**
 - **Seasonality Research:** Further investigate the June-July sales dip to determine underlying causes and refine promotional strategies accordingly.
 
 📎 **Resources:**  
-🔗 [📜 Final Report](https://docs.google.com/spreadsheets/d/14rczGgmBJOYZWz8Xh7ZP6FYDQdYgK3tb/edit?usp=drive_link)  
 🔗 [🐍 Python Code](https://github.com/DanielsData91/Brazilian-E-Commerce-Analysis/blob/main/Brazil%20E_Commerce_Analysis.ipynb)  
 🔗 [📂 Case Study Files](https://drive.google.com/file/d/1xqplsiywyXzsuqX2Yj2TAv9MOJSY7_Wk/view?usp=drive_link)
 
